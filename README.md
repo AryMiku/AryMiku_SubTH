@@ -1,6 +1,6 @@
 # SUB TH FOR ME :smile:
 สถานที่เก็บไฟล์ ass ซับไทย ทุกเรื่องที่อยากจะเก็บ
-ประกอบไปด้วยเรื่อง 
+ประกอบไปด้วยเรื่องต่างๆดังนี้
 * Fate Grand Order Zettai Majuu Sensen Babylonia
 * Fate Stay Night Heaven Feel
 * Kamen Rider - Zi O
