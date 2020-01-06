@@ -14,10 +14,10 @@ Audio File: [DameDesuYo] Domestic na Kanojo - 04 (1920x1080 10bit AAC) (Uncensor
 Video File: [DameDesuYo] Domestic na Kanojo - 04 (1920x1080 10bit AAC) (Uncensored) [7C114DDD].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1910
-Active Line: 1911
-Video Position: 34333
+Video Zoom Percent: 0.250000
+Scroll Position: 7918
+Active Line: 7934
+Video Position: 2142
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -7964,7 +7964,7 @@ Dialogue: 3,0:01:27.32,0:01:27.40,OP English,,0,0,0,fx,{\an2\move(960.00,985.00,
 Dialogue: 1,0:01:27.40,0:01:29.28,OP English,,0,0,0,fx,{\an5\pos(960.00,1002.49)\be1\bord2.5\1c&H1211B6&\3c&H1211B6&\4c&H1211B6&\shad3\1a&HFE&\3a&HFE&}ถ้าฉันพูด คงจะไปได้ดี
 Dialogue: 2,0:01:27.40,0:01:29.28,OP English,,0,0,0,fx,{\an5\pos(960.00,1002.49)\be1\bord2.5\1c&H000000&\3c&H000000&\4c&H000000&}ถ้าฉันพูด คงจะไปได้ดี
 Dialogue: 3,0:01:27.40,0:01:29.28,OP English,,0,0,0,fx,{\an5\pos(960.00,1002.49)\be1\1c&HFFFFFF&\bord0}ถ้าฉันพูด คงจะไปได้ดี
-Dialogue: 1,0:01:29.31,0:01:29.39,OP English,,0,0,0,fx,{\an2\move(960.00,985.00,960.00,1110.00)\be1\bord2.5\1c&HEDF4AE&\3c&HEDF4AE&\4c&HEDF4AE&\shad3\1a&HFE&\3a&HFE&}สิ่งของ เงิน รัก เรื่องราวต่างๆabout things
+Dialogue: 1,0:01:29.31,0:01:29.39,OP English,,0,0,0,fx,{\an2\move(960.00,985.00,960.00,1110.00)\be1\bord2.5\1c&HEDF4AE&\3c&HEDF4AE&\4c&HEDF4AE&\shad3\1a&HFE&\3a&HFE&}สิ่งของ เงิน รัก เรื่องราวต่างๆ
 Dialogue: 2,0:01:29.31,0:01:29.39,OP English,,0,0,0,fx,{\an2\move(960.00,985.00,960.00,1110.00)\be1\bord2.5\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&}สิ่งของ เงิน รัก เรื่องราวต่างๆ
 Dialogue: 3,0:01:29.31,0:01:29.39,OP English,,0,0,0,fx,{\an2\move(960.00,985.00,960.00,1110.00)\be1\1c&H000000&\bord0}สิ่งของ เงิน รัก เรื่องราวต่างๆ
 Dialogue: 1,0:01:29.39,0:01:31.49,OP English,,0,0,0,fx,{\an5\pos(960.00,1002.49)\be1\bord2.5\1c&H1211B6&\3c&H1211B6&\4c&H1211B6&\shad3\1a&HFE&\3a&HFE&}สิ่งของ เงิน รัก เรื่องราวต่างๆ
