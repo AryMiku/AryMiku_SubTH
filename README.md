@@ -1,11 +1,28 @@
-# SUB TH FOR ME :smile:
-สถานที่เก็บไฟล์ ass ซับไทย ทุกเรื่องที่อยากจะเก็บ
-ประกอบไปด้วยเรื่องต่างๆดังนี้
-* Fate Grand Order Zettai Majuu Sensen Babylonia
-* Fate Stay Night Heaven Feel
-* Kamen Rider - Zi O
-* Lord El-Melloi
-* Sword Art Online Alicization
-* YU-GI-OH ARC-V
-* Yu-GI-OH 5D's
-* Yu-GI-OH DSTD
+# 💎 TH SUB ON ARYMIKU 💎
+
+## เรื่องที่อยู่ในตารางคือเรื่องที่ ARYMIKU ทำมาทั้งหมดนะครับ
+
+> 🏢 สถานะไอคอนคือตามนี้นะครับ 🏢 <br>
+> ✔️ ทำจบแล้วหรือเสร็จแล้ว <br>
+> ❌ เลิกทำแล้วติดตามค่ายอื่นได้เลย <br>
+> ⚠️ ไม่ได้เลิกไม่ได้ดร็อป อยากทำตอนไหนค่อยมาทำเพิ่ม <br>
+> 🚩 กำลังทำอยู่ตอนนี้ (ถ้าไม่ผิดพลาดคือมาก่อนเพื่อน) <br>
+
+
+| ลำดับที่ทำ | ชื่อเรื่อง | สถานะ |
+| --- | --- | --- |
+| 01 | Fate Grand Order Zettai Majuu Sensen Babylonia | ❌ |
+| 02 | Fate Stay Night Heaven Feel | ✔️ |
+| 03 | Kamen Rider - Zi O | ✔️ |
+| 04 | Lord El-Melloi | ❌ |
+| 05 | Sword Art Online Alicization | ✔️ |
+| 06 | Sword Art Online Alicization War Of Underworld Season 1 | ✔️ |
+| 07 | Sword Art Online Alicization War Of Underworld Season 2 | 🚩 |
+| 08 | YU-GI-OH ARC-V | ✔️ |
+| 09 | Yu-GI-OH 5D's | ⚠️ |
+| 10 | Yu-GI-OH DSTD | ✔️ |
+
+---
+
+👉👉 [DISCORD](https://discord.gg/uE6BWDE) 👈👈 <br><br>
+👉👉 [FACEBOOK](https://www.facebook.com/AnimefunBB/) 👈👈
