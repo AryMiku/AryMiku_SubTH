@@ -17,10 +17,11 @@
 | 04 | Lord El-Melloi | ❌ |
 | 05 | Sword Art Online Alicization | ✔️ |
 | 06 | Sword Art Online Alicization War Of Underworld Season 1 | ✔️ |
-| 07 | Sword Art Online Alicization War Of Underworld Season 2 | 🚩 |
+| 07 | Sword Art Online Alicization War Of Underworld Season 2 | ✔️ |
 | 08 | YU-GI-OH ARC-V | ✔️ |
 | 09 | Yu-GI-OH 5D's | ⚠️ |
 | 10 | Yu-GI-OH DSTD | ✔️ |
+| 11 | Hanyou No Yashahime - Sengoku Otogizoushi | 🚩 |
 
 ---
 
