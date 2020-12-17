@@ -23,9 +23,7 @@ Video File: Yuragi-Sou No Yuuna-San OVA - 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 170
-Active Line: 184
-Video Position: 17850
+Video Position: 71
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,6 +34,7 @@ Style: TS,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Dialog Yuragi-sou Italic,,0,0,0,,{\3c&H567A27&\fs80\pos(1676,248)}RAW : Anime Time\N{\3c&H0000FF&}SubThai : Shiromori FS \N{\3c&HFB171F&}Timing : AryMiku
 Dialogue: 0,0:00:02.94,0:00:05.23,Dialog Yuragi-sou Italic,,0,0,0,,ที่นี้คือเมืองออนเซ็นยูเกโมริ
 Dialogue: 0,0:00:06.96,0:00:09.55,Dialog Yuragi-sou Italic,,0,0,0,,และที่นี้คือยูรางิโซ
 Dialogue: 0,0:00:09.92,0:00:11.98,Dialog Yuragi-sou Italic,,0,0,0,,ถึงจะเป็นอดีตเรียวกังออนเซ็น
@@ -64,7 +63,7 @@ Dialogue: 0,0:01:55.85,0:01:57.92,Dialog Yuragi-sou,,0,0,0,,อรุณสว�
 Dialogue: 0,0:01:57.92,0:01:59.64,Dialog Yuragi-sou,,0,0,0,,อรุณสวัสดิ์ค่ะ !
 Dialogue: 0,0:02:02.04,0:02:05.36,Dialog Yuragi-sou,,0,0,0,,อรุณสวัสดิ์ค่ะ คุณยูนะ โคงาราชิคุง
 Dialogue: 0,0:02:05.68,0:02:07.93,Dialog Yuragi-sou,,0,0,0,,มีอะไรที่ผมช่วยได้บ้างไหมครับ ?
-Dialogue: 0,0:02:07.93,0:02:11.49,Dialog Yuragi-sou,,0,0,0,,งั้นไปเรียกทุกคนมารวมกันหน่อยนะคะ 
+Dialogue: 0,0:02:07.93,0:02:11.49,Dialog Yuragi-sou,,0,0,0,,งั้นไปเรียกทุกคนมารวมกันหน่อยนะคะ
 Dialogue: 0,0:02:11.49,0:02:14.24,Dialog Yuragi-sou,,0,0,0,,ข้าวเช้าใกล้จะเสร็จแล้วน่ะค่ะ
 Dialogue: 0,0:02:14.24,0:02:15.28,Dialog Yuragi-sou,,0,0,0,,รับทราบครับ
 Dialogue: 0,0:02:17.47,0:02:19.42,Dialog Yuragi-sou,,0,0,0,,ดูเป็นคนดีนะคะ
@@ -125,7 +124,7 @@ Dialogue: 0,0:05:16.84,0:05:18.76,Dialog Yuragi-sou,,0,0,0,,ฟูยูโซ�
 Dialogue: 0,0:05:18.76,0:05:21.14,Dialog Yuragi-sou,,0,0,0,,แค่จะเรียกไปกินอาหารเช้าเท่านั้นแหละ !
 Dialogue: 0,0:05:21.14,0:05:24.14,Dialog Yuragi-sou,,0,0,0,,คือว่า ที่กำลังฝึกแบบนี้ ตัวฉันจะลืมบอกไปน่ะค่ะ
 Dialogue: 0,0:05:24.14,0:05:29.14,Dialog Yuragi-sou,,0,0,0,,แล้วก็ที่มาซ้อมตั้งแต่เช้าทุกวันแบบนี้ สุดยอดไปเลยนะ
-Dialogue: 0,0:05:29.14,0:05:30.90,Dialog Yuragi-sou,,0,0,0,,สุดยอดงั้นเหรอ ? 
+Dialogue: 0,0:05:29.14,0:05:30.90,Dialog Yuragi-sou,,0,0,0,,สุดยอดงั้นเหรอ ?
 Dialogue: 0,0:05:31.57,0:05:33.08,Dialog Yuragi-sou,,0,0,0,,คิดจะทำอะไรไม่ดีอยู่ล่ะสิ !
 Dialogue: 0,0:05:33.08,0:05:34.54,Dialog Yuragi-sou,,0,0,0,,คิดไม่ดีที่ไหนกันเล่า !
 Dialogue: 0,0:05:35.03,0:05:37.66,Dialog Yuragi-sou,,0,0,0,,เอาเป็นว่าช่วยทำอะไรกับสภาพแบบนั้นก่อนเถอะ !
@@ -181,7 +180,7 @@ Dialogue: 0,0:08:59.92,0:09:02.45,Dialog Yuragi-sou,,0,0,0,,โทษทีน�
 Dialogue: 0,0:09:02.45,0:09:03.96,Dialog Yuragi-sou,,0,0,0,,อ่ะ ไม่หรอกค่ะ
 Dialogue: 0,0:09:03.96,0:09:06.82,Dialog Yuragi-sou,,0,0,0,,คุณโคงาราชิพึ่งมาถึงที่นี้ด้วยสิ
 Dialogue: 0,0:09:06.82,0:09:08.95,Dialog Yuragi-sou,,0,0,0,,ถ้าเกิดหลงขึ้นมา แย่เลยนะคะ
-Dialogue: 0,0:09:09.44,0:09:12.22,Dialog Yuragi-sou,,0,0,0,,งั้นเรื่องงานก็พยายามเข้านะคะ 
+Dialogue: 0,0:09:09.44,0:09:12.22,Dialog Yuragi-sou,,0,0,0,,งั้นเรื่องงานก็พยายามเข้านะคะ
 Dialogue: 0,0:09:12.65,0:09:14.02,Dialog Yuragi-sou,,0,0,0,,ฉันเองก็จะพยายามเหมือนกันค่ะ !
 Dialogue: 0,0:09:18.90,0:09:20.10,Dialog Yuragi-sou,,0,0,0,,คุณนากาอิ !
 Dialogue: 0,0:09:20.10,0:09:23.04,Dialog Yuragi-sou,,0,0,0,,เกิดอะไรขึ้นเหรอคะ ดูเหมือนรีบร้อนจัง ?
@@ -221,144 +220,144 @@ Dialogue: 0,0:12:11.04,0:12:13.57,Dialog Yuragi-sou Italic,,0,0,0,,ผมชื�
 Dialogue: 0,0:12:14.98,0:12:17.45,Dialog Yuragi-sou Italic,,0,0,0,,ยัยนี่ชื่อยูโนฮานะ ยูนะ
 Dialogue: 0,0:12:17.45,0:12:22.17,Dialog Yuragi-sou Italic,,0,0,0,,วิญญาณที่วนเวียนอยู่ ณ ห้องหมายเลข 4 ที่ผมใช้ชีวิตอยู่
 Dialogue: 0,0:12:24.48,0:12:27.40,Dialog Yuragi-sou,,0,0,0,,ยินดีต้อนรับสู่ยูรางิโซ !
-Dialogue: 0,0:12:35.07,0:12:39.24,Title,,0,0,0,,{\fad(380,360)\pos(1512,1065)}Kogarashi turns into bubbles 
-Dialogue: 0,0:12:35.70,0:12:40.57,Dialog Yuragi-sou Italic,,0,0,180,,{\move(960,900,960,1035,3200,3800)}This is my story, after i stayed at Yuragi-sou. 
-Dialogue: 0,0:12:53.58,0:12:55.30,Dialog Yuragi-sou,,0,0,0,,Alright, That should do it. 
-Dialogue: 0,0:12:55.30,0:12:56.65,Dialog Yuragi-sou,,0,0,0,,Ok The- 
-Dialogue: 0,0:13:03.06,0:13:04.65,Dialog Yuragi-sou,,0,0,0,,Kogarashi-kun. 
-Dialogue: 0,0:13:05.71,0:13:08.53,Dialog Yuragi-sou,,0,0,0,,What's with that clothing? 
-Dialogue: 0,0:13:08.53,0:13:10.06,Dialog Yuragi-sou,,0,0,0,,Bath. 
-Dialogue: 0,0:13:12.03,0:13:14.04,Dialog Yuragi-sou,,0,0,0,,There's no shampoo. 
-Dialogue: 0,0:13:14.52,0:13:16.19,Dialog Yuragi-sou,,0,0,0,,I am cleaning after all. 
-Dialogue: 0,0:13:16.19,0:13:17.28,Dialog Yuragi-sou,,0,0,0,,Just wait a little longer. 
-Dialogue: 0,0:13:19.60,0:13:21.46,Dialog Yuragi-sou,,0,0,0,,Can't help it then. 
-Dialogue: 0,0:13:21.46,0:13:23.66,Dialog Yuragi-sou,,0,0,0,,I just have to do something about it. 
-Dialogue: 0,0:13:24.89,0:13:25.74,Dialog Yuragi-sou,,0,0,0,,There. 
-Dialogue: 0,0:13:29.20,0:13:30.08,Dialog Yuragi-sou,,0,0,0,,Yes? 
-Dialogue: 0,0:13:30.08,0:13:31.60,Dialog Yuragi-sou,,0,0,0,,Hey! Wai- 
-Dialogue: 0,0:13:35.21,0:13:36.78,Dialog Yuragi-sou Italic,,0,0,0,,"The bucket become a sponge." 
-Dialogue: 0,0:13:37.57,0:13:38.92,Dialog Yuragi-sou Italic,,0,0,0,,"The brush become a bucket." 
-Dialogue: 0,0:13:39.80,0:13:41.83,Dialog Yuragi-sou Italic,,0,0,0,,"I've also transformed into something?" 
-Dialogue: 0,0:13:48.93,0:13:51.23,Dialog Yuragi-sou Italic,,0,0,0,,"I'm a body soap!!?" 
-Dialogue: 0,0:13:51.60,0:13:54.20,Dialog Yuragi-sou Italic,,0,0,0,,Koyuzu! Turn me back into normal. 
-Dialogue: 0,0:13:54.20,0:13:58.57,Dialog Yuragi-sou Italic,,0,0,0,,{\an8}"Hey! Hey Koyuzu! Can't you hear me?" 
-Dialogue: 0,0:13:54.20,0:13:58.57,Dialog Yuragi-sou,,0,0,0,,Eh? I'm still wearing clothes? 
-Dialogue: 0,0:13:59.93,0:14:01.09,Dialog Yuragi-sou Italic,,0,0,0,,"Well whatever" 
-Dialogue: 0,0:14:01.09,0:14:03.44,Dialog Yuragi-sou Italic,,0,0,0,,"It's just koyuzu's technique" 
-Dialogue: 0,0:14:14.72,0:14:16.58,Dialog Yuragi-sou Italic,,0,0,0,,"But how do i cancel it?" 
-Dialogue: 0,0:14:16.58,0:14:19.85,Dialog Yuragi-sou Italic,,0,0,0,,"I can't even use hands or feet at all" 
-Dialogue: 0,0:14:20.90,0:14:23.20,Dialog Yuragi-sou,,0,0,0,,Koyuzu-san, So you were here! 
-Dialogue: 0,0:14:23.75,0:14:25.76,Dialog Yuragi-sou Italic,,0,0,0,,Yuuna, Nakai-san! 
-Dialogue: 0,0:14:25.76,0:14:28.98,Dialog Yuragi-sou,,0,0,0,,Geez, You're sleepwalking again. 
-Dialogue: 0,0:14:28.98,0:14:30.62,Dialog Yuragi-sou,,0,0,0,,I'm gonna have a bath. 
-Dialogue: 0,0:14:32.73,0:14:34.64,Dialog Yuragi-sou,,0,0,0,,Where's Kogarashi-san? 
-Dialogue: 0,0:14:34.64,0:14:36.28,Dialog Yuragi-sou,,0,0,0,,He's not here. 
-Dialogue: 0,0:14:37.08,0:14:39.07,Dialog Yuragi-sou Italic,,0,0,0,,I am Here! 
-Dialogue: 0,0:14:39.07,0:14:43.70,Dialog Yuragi-sou,,0,0,0,,Looks like he finished cleaning, we probably just missed eatch other. 
-Dialogue: 0,0:14:43.70,0:14:47.54,Dialog Yuragi-sou Italic,,0,0,0,,Wrong! Koyuzu turned me into a body soap! 
-Dialogue: 0,0:14:49.57,0:14:52.56,Dialog Yuragi-sou,,0,0,0,,You can have the first bath. 
-Dialogue: 0,0:14:52.56,0:14:55.63,Dialog Yuragi-sou,,0,0,0,,I have to take Koyuzu-san back to sleep. 
-Dialogue: 0,0:14:55.63,0:14:56.92,Dialog Yuragi-sou,,0,0,0,,Ok! 
-Dialogue: 0,0:14:57.56,0:14:58.81,Dialog Yuragi-sou Italic,,0,0,0,,Wait! 
-Dialogue: 0,0:14:58.81,0:15:01.58,Dialog Yuragi-sou Italic,,0,0,0,,Let Koyuzu turn me back to normal first! 
-Dialogue: 0,0:15:09.27,0:15:10.82,Dialog Yuragi-sou Italic,,0,0,0,,Yuuna! Hey! 
-Dialogue: 0,0:15:10.82,0:15:11.91,Dialog Yuragi-sou Italic,,0,0,0,,Put Your clothes on 
-Dialogue: 0,0:15:12.32,0:15:15.99,Dialog Yuragi-sou Italic,,0,0,0,,I'm right in front of you! Notice me already! 
-Dialogue: 0,0:15:27.62,0:15:30.63,Dialog Yuragi-sou Italic,,0,0,0,,Eh? What's this? It's a feeling of a sponge. 
-Dialogue: 0,0:15:31.22,0:15:32.96,Dialog Yuragi-sou Italic,,0,0,0,,The Bubbles are me, as well? 
-Dialogue: 0,0:15:46.96,0:15:48.22,Dialog Yuragi-sou Italic,,0,0,0,,This is bad! 
-Dialogue: 0,0:15:51.26,0:15:52.60,Dialog Yuragi-sou Italic,,0,0,0,,I can- 
-Dialogue: 0,0:15:54.38,0:15:56.36,Dialog Yuragi-sou Italic,,0,0,0,,Feel Yuuna's body. 
-Dialogue: 0,0:16:03.40,0:16:06.37,Dialog Yuragi-sou,,0,0,0,,Oh, Good morning Yuuna-chan. 
-Dialogue: 0,0:16:06.37,0:16:07.98,Dialog Yuragi-sou,,0,0,0,,Good morning, Yuuna. 
-Dialogue: 0,0:16:08.32,0:16:09.53,Dialog Yuragi-sou,,0,0,0,,Mornin. 
-Dialogue: 0,0:16:10.32,0:16:12.54,Dialog Yuragi-sou,,0,0,0,,Everyone, Good morning. 
-Dialogue: 0,0:16:12.54,0:16:14.80,Dialog Yuragi-sou Italic,,0,0,0,,D-Don't tell me. 
-Dialogue: 0,0:16:23.87,0:16:25.29,Dialog Yuragi-sou Italic,,0,0,0,,Hey.. 
-Dialogue: 0,0:16:31.30,0:16:32.32,Dialog Yuragi-sou Italic,,0,0,0,,Everyone. 
-Dialogue: 0,0:16:32.80,0:16:33.96,Dialog Yuragi-sou Italic,,0,0,0,,Stop! 
-Dialogue: 0,0:16:33.96,0:16:35.84,Dialog Yuragi-sou Italic,,0,0,0,,I am here! 
-Dialogue: 0,0:16:41.53,0:16:44.40,Dialog Yuragi-sou Italic,,0,0,0,,Can't anyone hear me? 
-Dialogue: 0,0:16:49.17,0:16:50.32,Dialog Yuragi-sou Italic,,0,0,0,,I'm sorry. 
-Dialogue: 0,0:16:50.74,0:16:53.24,Dialog Yuragi-sou Italic,,0,0,0,,I can feel everyone's body. 
-Dialogue: 0,0:16:53.72,0:16:56.92,Dialog Yuragi-sou Italic,,0,0,0,,This feeling, I- 
-Dialogue: 0,0:17:13.22,0:17:14.04,Dialog Yuragi-sou,,0,0,0,,Hey! 
-Dialogue: 0,0:17:20.82,0:17:23.34,Dialog Yuragi-sou Italic,,0,0,0,,The feeling of being squished in between like this. 
-Dialogue: 0,0:17:24.65,0:17:27.52,Dialog Yuragi-sou Italic,,0,0,0,,It feels.. Feels like. 
-Dialogue: 0,0:17:27.52,0:17:29.29,Dialog Yuragi-sou Italic,,0,0,0,,Feels like! 
-Dialogue: 0,0:17:29.29,0:17:33.66,Dialog Yuragi-sou Italic,,0,0,0,,A rubbing festival!! 
-Dialogue: 0,0:17:35.32,0:17:41.34,Dialog Yuragi-sou Italic,,0,0,0,,"In this situation, even Kogarashi was about to lose it. 
-Dialogue: 0,0:17:48.92,0:17:51.44,Dialog Yuragi-sou,,0,0,0,,It's been a while since we've taken a bath together. 
-Dialogue: 0,0:17:51.44,0:17:54.62,Dialog Yuragi-sou,,0,0,0,,Since we're at it, Let's get closer! Okay? 
-Dialogue: 0,0:17:54.62,0:17:56.29,Dialog Yuragi-sou,,0,0,0,,You're right! 
-Dialogue: 0,0:17:56.29,0:17:59.92,Dialog Yuragi-sou,,0,0,0,,Then the only missing was Nakai-san, and Koyuzu-chan. 
-Dialogue: 0,0:18:00.52,0:18:03.03,Dialog Yuragi-sou,,0,0,0,,Kogarashi-chan too! 
-Dialogue: 0,0:18:04.00,0:18:05.70,Dialog Yuragi-sou,,0,0,0,,Isn't he a male? 
-Dialogue: 0,0:18:05.70,0:18:09.16,Dialog Yuragi-sou,,0,0,0,,About that, how about wearing a swimsuit? 
-Dialogue: 0,0:18:09.62,0:18:12.28,Dialog Yuragi-sou Italic,,0,0,0,,I'm sorry, I'm already here. 
-Dialogue: 0,0:18:12.28,0:18:14.79,Dialog Yuragi-sou Italic,,0,0,0,,And last time was already bad. 
-Dialogue: 0,0:18:16.09,0:18:18.45,Dialog Yuragi-sou Italic,,0,0,0,,I already tried to return to normal. 
-Dialogue: 0,0:18:18.84,0:18:21.80,Dialog Yuragi-sou Italic,,0,0,0,,And here i've thought i've gotten stronger after training. 
-Dialogue: 0,0:18:21.80,0:18:25.84,Dialog Yuragi-sou Italic,,0,0,0,,But now that i can't even throw a punch,\Ni've become totally useless. 
-Dialogue: 0,0:18:27.82,0:18:29.36,Dialog Yuragi-sou Italic,,0,0,0,,This feeling of hopeless, is? 
-Dialogue: 0,0:18:30.51,0:18:33.12,Dialog Yuragi-sou Italic,,0,0,0,,Could this be the result of the soap. 
-Dialogue: 0,0:18:33.51,0:18:35.12,Dialog Yuragi-sou Italic,,0,0,0,, being rinsed away? 
-Dialogue: 0,0:18:35.92,0:18:39.42,Dialog Yuragi-sou Italic,,0,0,0,,If they end up using all the soap then what will happen to me? 
-Dialogue: 0,0:18:40.47,0:18:41.43,Dialog Yuragi-sou Italic,,0,0,0,,Damn it. 
-Dialogue: 0,0:18:42.10,0:18:43.12,Dialog Yuragi-sou Italic,,0,0,0,,Nobody.. 
-Dialogue: 0,0:18:43.67,0:18:46.06,Dialog Yuragi-sou Italic,,0,0,0,,Even Yuuna doesn't even notice me. 
-Dialogue: 0,0:18:49.12,0:18:53.44,Dialog Yuragi-sou Italic,,0,0,0,,Am i going to stay like this and get washed away? 
-Dialogue: 0,0:18:55.34,0:18:58.51,Dialog Yuragi-sou,,0,0,0,,Everyone is the Hotspring's temperature okay? 
-Dialogue: 0,0:18:58.51,0:18:59.74,Dialog Yuragi-sou Italic,,0,0,0,,Nakai-san! 
-Dialogue: 0,0:18:59.74,0:19:01.39,Dialog Yuragi-sou,,0,0,0,,Where's Koyuzu-san? 
-Dialogue: 0,0:19:01.39,0:19:04.04,Dialog Yuragi-sou,,0,0,0,,She already went back to sleep. 
-Dialogue: 0,0:19:04.04,0:19:05.46,Dialog Yuragi-sou Italic,,0,0,0,,Went back to sleep? 
-Dialogue: 0,0:19:05.46,0:19:10.22,Dialog Yuragi-sou,,0,0,0,,Today the bath is sparkling clean as well. Thank you for cleaning it always! 
-Dialogue: 0,0:19:10.22,0:19:13.16,Dialog Yuragi-sou,,0,0,0,,Ah, no. Today, it's Kogarashi's turn to clean it. 
-Dialogue: 0,0:19:13.16,0:19:15.70,Dialog Yuragi-sou,,0,0,0,,He's a good help sometimes. 
-Dialogue: 0,0:19:15.70,0:19:17.97,Dialog Yuragi-sou,,0,0,0,,Oh, is that so? 
-Dialogue: 0,0:19:18.31,0:19:21.12,Dialog Yuragi-sou,,0,0,0,,Kogarashi-kun is a good guy, right? 
-Dialogue: 0,0:19:21.92,0:19:24.09,Dialog Yuragi-sou,,0,0,0,,He sure give his all 
-Dialogue: 0,0:19:24.09,0:19:27.23,Dialog Yuragi-sou,,0,0,0,,Sure, he may have a slight brusque side to him. but, 
-Dialogue: 0,0:19:27.23,0:19:29.41,Dialog Yuragi-sou,,0,0,0,,He always does his job whole-heartedly. 
-Dialogue: 0,0:19:31.06,0:19:35.70,Dialog Yuragi-sou,,0,0,0,,It's Kogarashi-kun after all. Get along with him, Okay? 
-Dialogue: 0,0:19:35.70,0:19:38.97,Dialog Yuragi-sou,,0,0,0,,I'm not really close to him. 
-Dialogue: 0,0:19:39.55,0:19:42.78,Dialog Yuragi-sou,,0,0,0,,But well, he really doesnt seem like a bad person. 
-Dialogue: 0,0:19:42.78,0:19:47.07,Dialog Yuragi-sou,,0,0,0,,Yes! I'm always getting along well with Kogarashi-san! 
-Dialogue: 0,0:19:47.66,0:19:49.54,Dialog Yuragi-sou,,0,0,0,,Yaya, also dont hate him. 
-Dialogue: 0,0:19:49.54,0:19:51.80,Dialog Yuragi-sou,,0,0,0,,He's also cute, right? 
-Dialogue: 0,0:19:53.80,0:19:57.29,Dialog Yuragi-sou,,0,0,0,,Being a the first man here.\Nand also posessing spiritual powers, 
-Dialogue: 0,0:19:57.29,0:20:00.09,Dialog Yuragi-sou,,0,0,0,,At first i was worried how it will go. 
-Dialogue: 0,0:20:00.09,0:20:03.33,Dialog Yuragi-sou,,0,0,0,,But i'm glad it was a person like Kogarashi-kun who came. 
-Dialogue: 0,0:20:03.61,0:20:04.77,Dialog Yuragi-sou Italic,,0,0,0,,I also, 
-Dialogue: 0,0:20:05.23,0:20:06.61,Dialog Yuragi-sou Italic,,0,0,0,,everyone too. 
-Dialogue: 0,0:20:07.76,0:20:11.57,Dialog Yuragi-sou Italic,,0,0,0,,I'm so sorry, being a body soap here. 
-Dialogue: 0,0:20:11.57,0:20:16.20,Dialog Yuragi-sou Italic,,0,0,0,,I want to live as Fuyuzora Kogarashi! 
-Dialogue: 0,0:20:16.19,0:20:18.70,TS,,0,0,0,,Innkeeper's room 
-Dialogue: 0,0:20:19.80,0:20:22.94,Dialog Yuragi-sou,,0,0,0,,Somehow i have a feeling i have used a technique. 
-Dialogue: 0,0:20:23.51,0:20:25.73,Dialog Yuragi-sou,,0,0,0,,I'll just cancel them all. 
-Dialogue: 0,0:20:27.17,0:20:30.92,Dialog Yuragi-sou Italic,,0,0,0,,Everyone, Hey, I'm right here! 
-Dialogue: 0,0:20:33.69,0:20:34.91,Dialog Yuragi-sou,,0,0,0,,What's going on? 
-Dialogue: 0,0:20:38.88,0:20:40.23,Dialog Yuragi-sou,,0,0,0,,I'm back! 
-Dialogue: 0,0:20:40.80,0:20:43.47,Dialog Yuragi-sou,,0,0,0,,I've return to normal. 
-Dialogue: 0,0:20:45.20,0:20:46.80,Dialog Yuragi-sou,,0,0,0,,Kogarashi-kun? 
-Dialogue: 0,0:20:47.72,0:20:49.16,Dialog Yuragi-sou,,0,0,0,,Nakai-san! 
-Dialogue: 0,0:20:49.16,0:20:52.10,Dialog Yuragi-sou,,0,0,0,,Yes! Fuyuzora Kogarashi! 
-Dialogue: 0,0:20:52.10,0:20:55.14,Dialog Yuragi-sou,,0,0,0,,I'm so glad! Being myself. 
-Dialogue: 0,0:20:53.65,0:20:56.86,Dialog Yuragi-sou,,0,0,0,,{\an8}Ah, Kogarashi-kun. Calm down! 
-Dialogue: 0,0:20:56.86,0:20:58.29,Dialog Yuragi-sou,,0,0,0,,Kogarashi-san! 
-Dialogue: 0,0:21:03.25,0:21:04.78,Dialog Yuragi-sou,,0,0,0,,Fuyuzora Kogarashi! 
-Dialogue: 0,0:21:04.78,0:21:06.21,Dialog Yuragi-sou,,0,0,0,,You've done it again, You bastard. 
-Dialogue: 0,0:21:07.21,0:21:09.04,Dialog Yuragi-sou,,0,0,0,,You know it was me? Sagiri!? 
-Dialogue: 0,0:21:09.04,0:21:10.16,Dialog Yuragi-sou,,0,0,0,,What are you saying? 
-Dialogue: 0,0:21:10.16,0:21:14.12,Dialog Yuragi-sou,,0,0,0,,Oh, You're so bold! Kogarashi-chan. 
-Dialogue: 0,0:21:14.72,0:21:17.88,Dialog Yuragi-sou,,0,0,0,,This is just an accident right, Kogarashi-san? 
-Dialogue: 0,0:21:18.36,0:21:21.20,Dialog Yuragi-sou,,0,0,0,,Kogarashi, Want to join us? 
-Dialogue: 0,0:21:21.20,0:21:25.10,Dialog Yuragi-sou,,0,0,0,,Anyway, Can you get out first? Kogarashi-kun? 
-Dialogue: 0,0:21:31.08,0:21:34.98,Dialog Yuragi-sou,,0,0,0,,Ah, people here sure is noisy this morning, Good grief. 
-Dialogue: 0,0:21:35.43,0:21:39.22,Dialog Yuragi-sou,,0,0,0,,I-I'm back being a human again! 
-Dialogue: 0,0:21:41.07,0:21:42.65,Dialog Yuragi-sou,,0,0,0,,Heaven's punishment! 
-Dialogue: 0,0:21:42.65,0:21:44.98,Dialog Yuragi-sou,,0,0,0,,You guys didn't notice m- 
-Dialogue: 0,0:21:45.80,0:21:46.98,Dialog Yuragi-sou,,0,0,0,,Wait! Dag- 
-Dialogue: 0,0:21:50.18,0:21:52.92,Dialog Yuragi-sou,,0,0,0,,Kogarashi-san, Are you okay? 
-Dialogue: 0,0:21:52.92,0:21:55.42,Dialog Yuragi-sou,,0,0,0,,Kogarashi-san! 
+Dialogue: 0,0:12:35.07,0:12:39.24,Title,,0,0,0,,{\fad(380,360)\pos(1490,943)}โคการาชิกลายเป็นฟอง
+Dialogue: 0,0:12:35.70,0:12:40.57,Dialog Yuragi-sou Italic,,0,0,180,,{\move(958,782,960,1035,4851,3800)}นี่คือเรื่องราวหลังจากที่ผมมาอยู่ในยูรางิโซได้ไม่นาน
+Dialogue: 0,0:12:53.58,0:12:55.30,Dialog Yuragi-sou,,0,0,0,,ก็ประมาณนี้แหละ
+Dialogue: 0,0:12:55.30,0:12:56.65,Dialog Yuragi-sou,,0,0,0,,จากนี้ก็...
+Dialogue: 0,0:13:03.06,0:13:04.65,Dialog Yuragi-sou,,0,0,0,,โคงาราชิคุง
+Dialogue: 0,0:13:05.71,0:13:08.53,Dialog Yuragi-sou,,0,0,0,,ชุดแบบนั้น มาทำอะไรงั้นเหรอ ?
+Dialogue: 0,0:13:08.53,0:13:10.06,Dialog Yuragi-sou,,0,0,0,,อาบน้ำ
+Dialogue: 0,0:13:12.03,0:13:14.04,Dialog Yuragi-sou,,0,0,0,,ไม่มีแชมพูเลย
+Dialogue: 0,0:13:14.52,0:13:16.19,Dialog Yuragi-sou,,0,0,0,,ก็ตอนนี้ฉันกำลังทำความสะอาดอยู่นิ
+Dialogue: 0,0:13:16.19,0:13:17.28,Dialog Yuragi-sou,,0,0,0,,รออีกซักหน่อยนะ
+Dialogue: 0,0:13:19.60,0:13:21.46,Dialog Yuragi-sou,,0,0,0,,ไม่มีทางเลือก
+Dialogue: 0,0:13:21.46,0:13:23.66,Dialog Yuragi-sou,,0,0,0,,เดี๋ยวฉันจัดการเอง
+Dialogue: 0,0:13:24.89,0:13:25.74,Dialog Yuragi-sou,,0,0,0,,เอาไป
+Dialogue: 0,0:13:29.20,0:13:30.08,Dialog Yuragi-sou,,0,0,0,,ครับ ?
+Dialogue: 0,0:13:30.08,0:13:31.60,Dialog Yuragi-sou,,0,0,0,,เอ๊ะ ? เดี๋ยว....
+Dialogue: 0,0:13:35.21,0:13:36.78,Dialog Yuragi-sou Italic,,0,0,0,,ถังน้ำเปลี่ยนเป็นฟองน้ำ
+Dialogue: 0,0:13:37.57,0:13:38.92,Dialog Yuragi-sou Italic,,0,0,0,,แปรงขัดพื้นกลายเป็นขันน้ำ
+Dialogue: 0,0:13:39.80,0:13:41.83,Dialog Yuragi-sou Italic,,0,0,0,,แล้วเรากำลังจะโดนเปลี่ยนเป็นอะไรเนี่ย ?
+Dialogue: 0,0:13:48.93,0:13:51.23,Dialog Yuragi-sou Italic,,0,0,0,,เราเป็นสบู่ถูตัวงั้นเหรอ ?!
+Dialogue: 0,0:13:51.60,0:13:54.20,Dialog Yuragi-sou Italic,,0,0,0,,โคยูซุ ! เอาฉันกลับเป็นอย่างเดิมที !
+Dialogue: 0,0:13:54.20,0:13:58.57,Dialog Yuragi-sou Italic,,0,0,0,,{\an8}นี่ ! นี่ โคยูซุ ไม่ได้ยินหรือไง ?
+Dialogue: 0,0:13:54.20,0:13:58.57,Dialog Yuragi-sou,,0,0,0,,เอ๊ะ ? ทำไมฉันยังใส่ชุดอยู่นะ ?
+Dialogue: 0,0:13:59.93,0:14:01.09,Dialog Yuragi-sou Italic,,0,0,0,,งั้นก็ได้
+Dialogue: 0,0:14:01.09,0:14:03.44,Dialog Yuragi-sou Italic,,0,0,0,,แค่วิชาของโคยูซุ ฉันจะแก้ด้วยพลังของฉัน....
+Dialogue: 0,0:14:14.72,0:14:16.58,Dialog Yuragi-sou Italic,,0,0,0,,ทำยังไงถึงจะแก้ได้เนี่ย ?!
+Dialogue: 0,0:14:16.58,0:14:19.85,Dialog Yuragi-sou Italic,,0,0,0,,นี่เราทำอะไรไม่ได้เลยงั้นเหรอ ?!
+Dialogue: 0,0:14:20.90,0:14:23.20,Dialog Yuragi-sou,,0,0,0,,คุณโคยูซุมาทำอะไรที่นี้คะ
+Dialogue: 0,0:14:23.75,0:14:25.76,Dialog Yuragi-sou Italic,,0,0,0,,ยูนะ คุณนากาอิ !
+Dialogue: 0,0:14:25.76,0:14:28.98,Dialog Yuragi-sou,,0,0,0,,แหม่...นอนละเมออีกแล้ว
+Dialogue: 0,0:14:28.98,0:14:30.62,Dialog Yuragi-sou,,0,0,0,,ฉันจะอาบน้ำ
+Dialogue: 0,0:14:32.73,0:14:34.64,Dialog Yuragi-sou,,0,0,0,,คุณโคงาราชิ ?
+Dialogue: 0,0:14:34.64,0:14:36.28,Dialog Yuragi-sou,,0,0,0,,ไม่อยู่นะคะ
+Dialogue: 0,0:14:37.08,0:14:39.07,Dialog Yuragi-sou Italic,,0,0,0,,ฉันอยู่ตรงนี้ !
+Dialogue: 0,0:14:39.07,0:14:43.70,Dialog Yuragi-sou,,0,0,0,,ดูเหมือนจะทำความสะอาดเสร็จแล้วนะคะ\Nเดินสวนกันงั้นเหรอ ?
+Dialogue: 0,0:14:43.70,0:14:47.54,Dialog Yuragi-sou Italic,,0,0,0,,ไม่ใช่ ! โคยูซุดันมาเปลี่ยนฉันเป็นสบู่ถูตัวต่างหาก !
+Dialogue: 0,0:14:49.57,0:14:52.56,Dialog Yuragi-sou,,0,0,0,,จริงด้วย เชิญแช่น้ำก่อนเลยนะคะ
+Dialogue: 0,0:14:52.56,0:14:55.63,Dialog Yuragi-sou,,0,0,0,,ฉันจะพาคุณโคยูซุไปนอนก่อนน่ะค่ะ
+Dialogue: 0,0:14:55.63,0:14:56.92,Dialog Yuragi-sou,,0,0,0,,ค่ะ !
+Dialogue: 0,0:14:57.56,0:14:58.81,Dialog Yuragi-sou Italic,,0,0,0,,หยุดเลยนะ !
+Dialogue: 0,0:14:58.81,0:15:01.58,Dialog Yuragi-sou Italic,,0,0,0,,ให้โคยูซุเปลี่ยนฉันกลับเป็นอย่างเดิมก่อน !
+Dialogue: 0,0:15:09.27,0:15:10.82,Dialog Yuragi-sou Italic,,0,0,0,,ยูนะ ! นี่ !
+Dialogue: 0,0:15:10.82,0:15:11.91,Dialog Yuragi-sou Italic,,0,0,0,,ใส่ชุดหน่อยเถอะ !
+Dialogue: 0,0:15:12.32,0:15:15.99,Dialog Yuragi-sou Italic,,0,0,0,,ฉันอยู่ตรงหน้าเนี่ย ! รู้สึกตัวซักที !
+Dialogue: 0,0:15:27.62,0:15:30.63,Dialog Yuragi-sou Italic,,0,0,0,,เอ๊ะ ? อะไรเนี่ย ? สัมผัสถึงฟองน้ำนี่ ?
+Dialogue: 0,0:15:31.22,0:15:32.96,Dialog Yuragi-sou Italic,,0,0,0,,ฟองนี่ก็คือตัวฉันด้วยเหรอ ?
+Dialogue: 0,0:15:46.96,0:15:48.22,Dialog Yuragi-sou Italic,,0,0,0,,ชิบหายแล้ว !
+Dialogue: 0,0:15:51.26,0:15:52.60,Dialog Yuragi-sou Italic,,0,0,0,,สัมผัสถึง...
+Dialogue: 0,0:15:54.38,0:15:56.36,Dialog Yuragi-sou Italic,,0,0,0,,....ร่างกายของยูนะ
+Dialogue: 0,0:16:03.40,0:16:06.37,Dialog Yuragi-sou,,0,0,0,,ตายจริง อรุณสวัสดิ์ ยูนะจัง
+Dialogue: 0,0:16:06.37,0:16:07.98,Dialog Yuragi-sou,,0,0,0,,อรุณสวัสดิ์ยูนะ
+Dialogue: 0,0:16:08.32,0:16:09.53,Dialog Yuragi-sou,,0,0,0,,รุณสวัสดิ์...
+Dialogue: 0,0:16:10.32,0:16:12.54,Dialog Yuragi-sou,,0,0,0,,อรุณสวัสดิ์ค่ะ ทุกคน !
+Dialogue: 0,0:16:12.54,0:16:14.80,Dialog Yuragi-sou Italic,,0,0,0,,อย่า...อย่าบอกนะว่า....
+Dialogue: 0,0:16:23.87,0:16:25.29,Dialog Yuragi-sou Italic,,0,0,0,,เห้ย...
+Dialogue: 0,0:16:31.30,0:16:32.32,Dialog Yuragi-sou Italic,,0,0,0,,ทุกคน
+Dialogue: 0,0:16:32.80,0:16:33.96,Dialog Yuragi-sou Italic,,0,0,0,,หยุดนะ !
+Dialogue: 0,0:16:33.96,0:16:35.84,Dialog Yuragi-sou Italic,,0,0,0,,ฉันอยู่ตรงนี้ด้วยนะ !
+Dialogue: 0,0:16:41.53,0:16:44.40,Dialog Yuragi-sou Italic,,0,0,0,,ไม่มีใครได้ยินเราเลยหรือไง ?
+Dialogue: 0,0:16:49.17,0:16:50.32,Dialog Yuragi-sou Italic,,0,0,0,,ฉันขอโทษ
+Dialogue: 0,0:16:50.74,0:16:53.24,Dialog Yuragi-sou Italic,,0,0,0,,ตอนนี้รับรู้ร่างกายของทุกคนหมดแล้ว
+Dialogue: 0,0:16:53.72,0:16:56.92,Dialog Yuragi-sou Italic,,0,0,0,,ถ้าเป็นแบบนี้ต่อไปฉันต้อง...
+Dialogue: 0,0:17:13.22,0:17:14.04,Dialog Yuragi-sou,,0,0,0,,นี่...
+Dialogue: 0,0:17:20.82,0:17:23.34,Dialog Yuragi-sou Italic,,0,0,0,,สัมผัสแบบประกบคู่...
+Dialogue: 0,0:17:24.65,0:17:27.52,Dialog Yuragi-sou Italic,,0,0,0,,นี่...นี่มัน...
+Dialogue: 0,0:17:27.52,0:17:29.29,Dialog Yuragi-sou Italic,,0,0,0,,แบบนี้มัน !!
+Dialogue: 0,0:17:29.29,0:17:33.66,Dialog Yuragi-sou Italic,,0,0,0,,เป็นเทศกาลอัดแน่นเป็นปลากระป๋องหรือยังไงกัน !!
+Dialogue: 0,0:17:35.32,0:17:41.34,Dialog Yuragi-sou Italic,,0,0,0,,ในตอนนี้คงต้องบอกว่าขนาดโคงาราชิยังไม่สามารถรอดพ้น
+Dialogue: 0,0:17:48.92,0:17:51.44,Dialog Yuragi-sou,,0,0,0,,ไม่ได้แช่ด้วยกันแบบนี้นานแล้วน่ะ
+Dialogue: 0,0:17:51.44,0:17:54.62,Dialog Yuragi-sou,,0,0,0,,ถ้าอยู่ด้วยกันกับทุกคนต้องรู้สึกดีกว่าแน่ๆค่ะ
+Dialogue: 0,0:17:54.62,0:17:56.29,Dialog Yuragi-sou,,0,0,0,,จริงด้วย !
+Dialogue: 0,0:17:56.29,0:17:59.92,Dialog Yuragi-sou,,0,0,0,,ที่เหลือก็ คุณนากาอิ โคยูซุจัง กับ...
+Dialogue: 0,0:18:00.52,0:18:03.03,Dialog Yuragi-sou,,0,0,0,,โคงาราชิจังด้วยสินะ
+Dialogue: 0,0:18:04.00,0:18:05.70,Dialog Yuragi-sou,,0,0,0,,เจ้านั่นเป็นผู้ชายนะคะ !!
+Dialogue: 0,0:18:05.70,0:18:09.16,Dialog Yuragi-sou,,0,0,0,,ถ้าเป็นแบบนั้น เราใส่ชุดว่ายน้ำ คิดว่าเป็นไงคะ ?
+Dialogue: 0,0:18:09.62,0:18:12.28,Dialog Yuragi-sou Italic,,0,0,0,,โทษที ฉันอยู่ตรงนี้แล้ว
+Dialogue: 0,0:18:12.28,0:18:14.79,Dialog Yuragi-sou Italic,,0,0,0,,เมื่อกี้ก็เลวร้ายสุดๆไปแล้ว
+Dialogue: 0,0:18:16.09,0:18:18.45,Dialog Yuragi-sou Italic,,0,0,0,,ยังคิดหาวิธีกลับร่างเดิมไม่ได้เลย
+Dialogue: 0,0:18:18.84,0:18:21.80,Dialog Yuragi-sou Italic,,0,0,0,,นึกว่าเราจะแข็งแกร่งมากกว่านี้ถ้าได้ฝึกซะอีก
+Dialogue: 0,0:18:21.80,0:18:25.84,Dialog Yuragi-sou Italic,,0,0,0,,ฉันปล่อยหมัดที่ไร้พลังออกมาได้ขนาดนี้เลยเหรอ
+Dialogue: 0,0:18:27.82,0:18:29.36,Dialog Yuragi-sou Italic,,0,0,0,,ความรู้สึกเหมือนจะหายไปนี้มัน...
+Dialogue: 0,0:18:30.51,0:18:33.12,Dialog Yuragi-sou Italic,,0,0,0,,สัมผัสได้ถึงฟองน้ำที่กำลังไหลลงไป
+Dialogue: 0,0:18:33.51,0:18:35.12,Dialog Yuragi-sou Italic,,0,0,0,,เป็นเพราะว่ามีน้ำมาดูดมันไปสินะ !!
+Dialogue: 0,0:18:35.92,0:18:39.42,Dialog Yuragi-sou Italic,,0,0,0,,ถ้าเกิดว่าตัวเราโดนดูดไปจนหมด สติของเราจะเป็นยังไงกันละเนี่ย ?
+Dialogue: 0,0:18:40.47,0:18:41.43,Dialog Yuragi-sou Italic,,0,0,0,,บ้าจริง...
+Dialogue: 0,0:18:42.10,0:18:43.12,Dialog Yuragi-sou Italic,,0,0,0,,ใครก็ได้...
+Dialogue: 0,0:18:43.67,0:18:46.06,Dialog Yuragi-sou Italic,,0,0,0,,ขนาดยูนะยังไม่เห็นเราเลย
+Dialogue: 0,0:18:49.12,0:18:53.44,Dialog Yuragi-sou Italic,,0,0,0,,ฉันจะค่อยๆหายไปในสภาพที่เป็นแบบนี้เหรอเนี่ย ?
+Dialogue: 0,0:18:55.34,0:18:58.51,Dialog Yuragi-sou,,0,0,0,,ทุกคนคะ น้ำไม่ร้อนไม่เย็นเกินไปใช่ไหมคะ ?
+Dialogue: 0,0:18:58.51,0:18:59.74,Dialog Yuragi-sou Italic,,0,0,0,,คุณนากาอิ !
+Dialogue: 0,0:18:59.74,0:19:01.39,Dialog Yuragi-sou,,0,0,0,,คุณโคยูซุล่ะคะ ?
+Dialogue: 0,0:19:01.39,0:19:04.04,Dialog Yuragi-sou,,0,0,0,,หลับสนิทเรียบร้อยแล้วค่ะ
+Dialogue: 0,0:19:04.04,0:19:05.46,Dialog Yuragi-sou Italic,,0,0,0,,หลับไปแล้วงั้นเหรอ !
+Dialogue: 0,0:19:05.46,0:19:10.22,Dialog Yuragi-sou,,0,0,0,,บ่อในวันนี้ดูเหมือนใหม่เลย\Nขอบคุณที่คอยทำความสะอาดให้ตลอดนะ
+Dialogue: 0,0:19:10.22,0:19:13.16,Dialog Yuragi-sou,,0,0,0,,ไม่ใช่นะคะ วันนี้คุณโคงาราชิเป็นคนทำน่ะค่ะ
+Dialogue: 0,0:19:13.16,0:19:15.70,Dialog Yuragi-sou,,0,0,0,,คุณโคงาราชิบางทีก็มาช่วยฉันทำบ้างนะคะ
+Dialogue: 0,0:19:15.70,0:19:17.97,Dialog Yuragi-sou,,0,0,0,,แหม่ จริงเหรอเนี่ย ?
+Dialogue: 0,0:19:18.31,0:19:21.12,Dialog Yuragi-sou,,0,0,0,,คุณโคงาราชิเองก็เป็นคนดีเหมือนกันนะคะ
+Dialogue: 0,0:19:21.92,0:19:24.09,Dialog Yuragi-sou,,0,0,0,,พยายามอย่างจริงใจอย่างสุดความสามารถ
+Dialogue: 0,0:19:24.09,0:19:27.23,Dialog Yuragi-sou,,0,0,0,,ถึงจะไม่มีมารยาทไปซักหน่อย
+Dialogue: 0,0:19:27.23,0:19:29.41,Dialog Yuragi-sou,,0,0,0,,แต่ก็สัมผัสได้ถึงความจริงใจนะคะ
+Dialogue: 0,0:19:31.06,0:19:35.70,Dialog Yuragi-sou,,0,0,0,,เพราะโคงาราชิคุงเป็นคนแบบนั้น\Nดังนั้นโคงาราชิคุงคงจะสนิทกับทุกคนแล้วสินะคะ
+Dialogue: 0,0:19:35.70,0:19:38.97,Dialog Yuragi-sou,,0,0,0,,ฉันก็ไม่ได้สนิทอะไรเป็นพิเศษหรอก...
+Dialogue: 0,0:19:39.55,0:19:42.78,Dialog Yuragi-sou,,0,0,0,,แต่ก็...ไม่ได้เป็นผู้ชายที่แย่อะไรหรอกนะ
+Dialogue: 0,0:19:42.78,0:19:47.07,Dialog Yuragi-sou,,0,0,0,,ค่ะ ! คุณโคงาราชิช่วยเหลือฉันบ่อยๆเลยค่ะ !
+Dialogue: 0,0:19:47.66,0:19:49.54,Dialog Yuragi-sou,,0,0,0,,ยายะก็ไม่ได้เกลียดนะ
+Dialogue: 0,0:19:49.54,0:19:51.80,Dialog Yuragi-sou,,0,0,0,,ถึงจะซื่อแต่ก็น่ารักนะ
+Dialogue: 0,0:19:53.80,0:19:57.29,Dialog Yuragi-sou,,0,0,0,,เป็นผู้ชายแถมยังเรียกกันว่าผู้มีพลังวิญญาณอีก
+Dialogue: 0,0:19:57.29,0:20:00.09,Dialog Yuragi-sou,,0,0,0,,ฉันเลยกังวลนิดๆว่า "จะเป็นยังไงต่อ" เหมือนกัน
+Dialogue: 0,0:20:00.09,0:20:03.33,Dialog Yuragi-sou,,0,0,0,,แต่ดีจริงๆ นะคะที่โคงาราชิคุงเป็นคนดีมากเลย
+Dialogue: 0,0:20:03.61,0:20:04.77,Dialog Yuragi-sou Italic,,0,0,0,,ฉันเนี่ย...
+Dialogue: 0,0:20:05.23,0:20:06.61,Dialog Yuragi-sou Italic,,0,0,0,,กับทุกคน...
+Dialogue: 0,0:20:07.76,0:20:11.57,Dialog Yuragi-sou Italic,,0,0,0,,ฉันขอโทษที่จะจบชีวิตตัวเองในฐานะสบู่ถูตัว !
+Dialogue: 0,0:20:11.57,0:20:16.20,Dialog Yuragi-sou Italic,,0,0,0,,ฉันอยากจะกลับไปใช้ชีวิตในฐานะ ฟูยูโซระ โคงาราชิ !
+Dialogue: 0,0:20:16.19,0:20:18.70,TS,,0,0,0,,{\pos(914,271)\frz21.36}ห้องผู้ดูแล
+Dialogue: 0,0:20:19.80,0:20:22.94,Dialog Yuragi-sou,,0,0,0,,รู้สึกเหมือนว่ากำลังใช้วิชาอยู่เลย
+Dialogue: 0,0:20:23.51,0:20:25.73,Dialog Yuragi-sou,,0,0,0,,แก้วิชาก่อนดีกว่า
+Dialogue: 0,0:20:27.17,0:20:30.92,Dialog Yuragi-sou Italic,,0,0,0,,ทุกคน ! ฉันอยู่ตรงนี้
+Dialogue: 0,0:20:33.69,0:20:34.91,Dialog Yuragi-sou,,0,0,0,,อะไรน่ะ ?!
+Dialogue: 0,0:20:38.88,0:20:40.23,Dialog Yuragi-sou,,0,0,0,,กลับเป็นอย่างเดิมแล้ว !
+Dialogue: 0,0:20:40.80,0:20:43.47,Dialog Yuragi-sou,,0,0,0,,กลับเป็นอย่างเดิมแล้วงั้นเหรอ ?
+Dialogue: 0,0:20:45.20,0:20:46.80,Dialog Yuragi-sou,,0,0,0,,โคงาราชิคุง ?
+Dialogue: 0,0:20:47.72,0:20:49.16,Dialog Yuragi-sou,,0,0,0,,คุณนากาอิ !
+Dialogue: 0,0:20:49.16,0:20:52.10,Dialog Yuragi-sou,,0,0,0,,ครับ ! ฟูยูโซระ โคงาราชิ ครับ !!
+Dialogue: 0,0:20:52.10,0:20:55.14,Dialog Yuragi-sou,,0,0,0,,ผมดีใจมากเลยครับ ! มองเห็นผมแล้วสินะครับ !
+Dialogue: 0,0:20:53.65,0:20:56.86,Dialog Yuragi-sou,,0,0,0,,{\an8}นี่...โคงาราชิคุง ใจเย็นๆก่อน !
+Dialogue: 0,0:20:56.86,0:20:58.29,Dialog Yuragi-sou,,0,0,0,,คุณโคงาราชิ !
+Dialogue: 0,0:21:03.25,0:21:04.78,Dialog Yuragi-sou,,0,0,0,,ฟูยูโซระ โคงาราชิ !
+Dialogue: 0,0:21:04.78,0:21:06.21,Dialog Yuragi-sou,,0,0,0,,เอาอีกแล้วเหรอแก....
+Dialogue: 0,0:21:07.21,0:21:09.04,Dialog Yuragi-sou,,0,0,0,,เธอรู้ว่าเป็นฉันสินะ ซากิริ
+Dialogue: 0,0:21:09.04,0:21:10.16,Dialog Yuragi-sou,,0,0,0,,พูดเรื่องอะไร !?
+Dialogue: 0,0:21:10.16,0:21:14.12,Dialog Yuragi-sou,,0,0,0,,โคงาราชิจัง ใจกล้าดีจัง
+Dialogue: 0,0:21:14.72,0:21:17.88,Dialog Yuragi-sou,,0,0,0,,มะ...มีเรื่องอะไรเกิดขึ้นสินะคะ คุณโคงาราชิ ?
+Dialogue: 0,0:21:18.36,0:21:21.20,Dialog Yuragi-sou,,0,0,0,,โคงาราชิมาแช่ด้วยกันไหม ?
+Dialogue: 0,0:21:21.20,0:21:25.10,Dialog Yuragi-sou,,0,0,0,,ยังไงก็ช่วยออกไปก่อนได้ไหมคะ โคงาราชิคุง !
+Dialogue: 0,0:21:31.08,0:21:34.98,Dialog Yuragi-sou,,0,0,0,,คนที่นี้เอะอะกันตั้งแต่เช้าเลย ให้ตายสิ
+Dialogue: 0,0:21:35.43,0:21:39.22,Dialog Yuragi-sou,,0,0,0,,ฉะ...ฉันกลับมาเป็นมนุษย์แล้วนะ !
+Dialogue: 0,0:21:41.07,0:21:42.65,Dialog Yuragi-sou,,0,0,0,,เท็นจู !
+Dialogue: 0,0:21:42.65,0:21:44.98,Dialog Yuragi-sou,,0,0,0,,ฉันอยากให้พวกเธอสังเกตเห็นฉัน...!
+Dialogue: 0,0:21:45.80,0:21:46.98,Dialog Yuragi-sou,,0,0,0,,เดี๋...แม่นชิบ....
+Dialogue: 0,0:21:50.18,0:21:52.92,Dialog Yuragi-sou,,0,0,0,,คุณโคงาราชิ เป็นอะไรไหมคะ ?
+Dialogue: 0,0:21:52.92,0:21:55.42,Dialog Yuragi-sou,,0,0,0,,คุณโคงาราชิ !
