@@ -11,14 +11,12 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Yuragi-Sou No Yuuna-San OVA - 02.mkv
-Video File: Yuragi-Sou No Yuuna-San OVA - 02.mkv
+Audio File: C:/Users/AryMiku/Downloads/Video/Yuragi-Sou No Yuuna-San OVA - 02.mkv
+Video File: C:/Users/AryMiku/Downloads/Video/Yuragi-Sou No Yuuna-San OVA - 02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 334
-Active Line: 347
-Video Position: 31797
+Video Position: 58
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,6 +25,7 @@ Style: Ttitre Yuragi,TH Sarabun New,130,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Ttitre Yuragi,,0,0,0,,{\3c&H567A27&\fs80\pos(1678,8)}RAW : Anime Time\N{\3c&H0000FF&}SubThai : Shiromori FS \N{\3c&HFB171F&}Timing : AryMiku
 Comment: 0,0:03:04.27,0:03:09.23,Ttitre Yuragi,,0,0,0,,{\blur0.3\fad(300,0)\c&H570BD7&}Na{\c&H7D3A50&}tsumi {\c&HE4A901&}no {\c&H4DC4FA&}Sekai
 Dialogue: 0,0:03:04.29,0:03:09.25,Ttitre Yuragi,,0,0,0,,{\blur0.3\fad(300,0)\c&H4DC4FA&}ยูรากิโซ {\c&HE4A901&}ที่นี้ {\c&H570BD7&}ผี{\c&H7D3A50&}น่ารัก {\c&HE4A901&}นะ
 Dialogue: 0,0:00:09.37,0:00:12.37,Yuragi main,,0,0,0,,{\i1}โอโบโระ ผู้ตื่นเร็วกว่าใครเสมอ{\i0}
