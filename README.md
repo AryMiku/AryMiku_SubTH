@@ -22,6 +22,7 @@
 | 09 | Yu-GI-OH 5D's | ⚠️ |
 | 10 | Yu-GI-OH DSTD | ✔️ |
 | 11 | Hanyou No Yashahime - Sengoku Otogizoushi | 🚩 |
+| 12 | Ijiranaide, Nagatoro-san | 🚩 |
 
 ---
 
