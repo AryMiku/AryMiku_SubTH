@@ -20,14 +20,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Video/[Deformer-Lua] Yu-Gi-Oh! 5D's 020 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
-Video File: Video/[Deformer-Lua] Yu-Gi-Oh! 5D's 020 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
+Audio File: [Deformer-Lua] Yu-Gi-Oh! 5D's 020 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
+Video File: [Deformer-Lua] Yu-Gi-Oh! 5D's 020 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 279
-Active Line: 283
-Video Position: 33904
+Scroll Position: 21
+Active Line: 31
+Video Position: 3516
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,6 +70,7 @@ Dialogue: 0,0:01:54.48,0:01:55.64,บทพูด,Unknown,0,0,0,,ธุระอ
 Dialogue: 0,0:01:55.91,0:02:00.71,บทพูด,Unknown,0,0,0,,ธุระอะไรกันน้า\Nเอาเป็นนึกออกว่ามีธุระแล้วกัน
 Dialogue: 0,0:02:01.45,0:02:02.42,บทพูด,Unknown,0,0,0,,ลูอา
 Dialogue: 0,0:02:02.95,0:02:04.08,บทพูด,Unknown,0,0,0,,โธ่...
+Dialogue: 0,0:02:04.99,0:02:10.08,บทพูด,Unknown,0,0,0,,{\fs60\3c&HF21500&\pos(1674,146)}[ถอด Sub Thai]\N{\3c&H2B2CFC&}Special Thank : StepUnderZ
 Dialogue: 0,0:02:25.94,0:02:28.54,Song Romaji,Unknown,0,0,0,,donna ni hanaretate
 Dialogue: 0,0:02:25.94,0:02:28.54,Song Thai,Unknown,0,0,0,,ไม่ว่าเราจะห่างกันเท่าไหร่
 Dialogue: 0,0:02:28.54,0:02:31.31,Song Romaji,Unknown,0,0,0,,togireru koto wa naisa
