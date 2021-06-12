@@ -25,9 +25,9 @@ Video File: [YES] Yu-Gi-Oh! 5Ds - 011 (AMZN 1920x1080 VBR AVC E-AC3).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 252
-Active Line: 266
-Video Position: 33667
+Scroll Position: 234
+Active Line: 236
+Video Position: 31866
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -275,7 +275,7 @@ Dialogue: 0,0:22:03.95,0:22:06.02,Song Romaji,Unknown,0,0,0,,shinjitsu no koe
 Dialogue: 0,0:22:03.95,0:22:06.02,Song Thai,Unknown,0,0,0,,ช่วยให้เราได้ยิน
 Dialogue: 0,0:22:06.02,0:22:09.06,Song Romaji,Unknown,0,0,0,,ga kikoetanda
 Dialogue: 0,0:22:06.02,0:22:09.06,Song Thai,Unknown,0,0,0,,เสียงร้องของความเป็นจริง
-Dialogue: 0,0:22:09.06,0:22:12.69,บทพูด,Unknown,0,0,0,,kizutsuite shitta yo
+Dialogue: 0,0:22:09.06,0:22:12.69,Song Romaji,Unknown,0,0,0,,kizutsuite shitta yo
 Dialogue: 0,0:22:09.06,0:22:12.69,Song Thai,Unknown,0,0,0,,รู้จักเรียนรู้จากความเจ็บปวด
 Dialogue: 0,0:22:14.59,0:22:18.36,Song Romaji,Unknown,0,0,0,,tsuyoku nareru basho wo
 Dialogue: 0,0:22:14.59,0:22:18.36,Song Thai,Unknown,0,0,0,,เปลี่ยนมันเป็นความเข้มแข็งที่มี
