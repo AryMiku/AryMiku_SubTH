@@ -20,21 +20,21 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Deformer-Lua] Yu-Gi-Oh! 5D's 020 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
-Video File: [Deformer-Lua] Yu-Gi-Oh! 5D's 020 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
+Audio File: [YES] Yu-Gi-Oh! 5Ds - 020 (AMZN 1920x1080 VBR AVC E-AC3).mkv
+Video File: [YES] Yu-Gi-Oh! 5Ds - 020 (AMZN 1920x1080 VBR AVC E-AC3).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 21
-Active Line: 31
-Video Position: 3516
+Scroll Position: 281
+Active Line: 293
+Video Position: 33923
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: DCC,Tahoma,72,&H00FFFFFF,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,3.15,3.825,2,160,160,34,1
 Style: Song Romaji,TF Manawika,100,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,9,10,50,30,1
-Style: Song Thai,TH Sarabun New,100,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,6,0,1,50,10,50,1
 Style: บทพูด,TH Sarabun New,120,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,50,1
+Style: Song Thai,TH Sarabun New,100,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,6,0,9,10,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -322,12 +322,13 @@ Dialogue: 0,0:22:47.66,0:22:51.10,Song Romaji,Unknown,0,0,0,,shinjiteru kizuna w
 Dialogue: 0,0:22:47.66,0:22:51.10,Song Thai,Unknown,0,0,0,,เก็บสายสัมพันธ์ที่เชื่อมั่นไว้ในใจ
 Dialogue: 0,0:22:51.10,0:22:57.37,Song Romaji,Unknown,0,0,0,,kaketeyuku ashita e
 Dialogue: 0,0:22:51.10,0:22:57.37,Song Thai,Unknown,0,0,0,,แล้ววิ่งไปสู่วันพรุ่งนี้
-Dialogue: 0,0:23:05.03,0:23:24.82,บทพูด,Unknown,0,0,0,,{\pos(410,386)\3c&HF21500&}ตอนต่อไป
+Dialogue: 0,0:23:05.03,0:23:24.70,บทพูด,Unknown,0,0,0,,{\3c&HF21500&\pos(424,152)}ตอนต่อไป
 Dialogue: 0,0:23:05.75,0:23:08.91,บทพูด,Unknown,0,0,0,,สิ่งที่ตระหง่านอยู่หน้าฉันคือ {\3c&H0E3D7D&}[ไจแอนท์บอมเมอร์-แอร์เรด]{\3c&H000000&}
 Dialogue: 0,0:23:09.18,0:23:14.42,บทพูด,Unknown,0,0,0,,มอนสเตอร์หรือการ์ดที่ส่งลงมา\Nจะถูกทำลายและสร้างความเสียหาย 800
 Dialogue: 0,0:23:14.42,0:23:19.22,บทพูด,Unknown,0,0,0,,ไล่ต้อนอยู่ฝ่ายเดียวจริง ๆ ครับ\Nบอมเมอร์จะแข็งแกร่งเกินไปแล้ว
 Dialogue: 0,0:23:19.33,0:23:22.19,บทพูด,Unknown,0,0,0,,หลังจากฉันส่งมอนสเตอร์ลงมา ก็หมอบการ์ดเพิ่มไว้
 Dialogue: 0,0:23:22.73,0:23:24.10,บทพูด,Unknown,0,0,0,,นายจะอ่านเกมออกมั้ย บอมเมอร์
+Dialogue: 0,0:23:24.73,0:23:34.91,บทพูด,Unknown,0,0,0,,{\pos(982,306)\3c&HF21500&}"บอมเมอร์ล้างแค้น กับดักอันน่าสลด แชเรียตไพล์"
 Dialogue: 0,0:23:24.73,0:23:26.89,บทพูด,Unknown,0,0,0,,ตอนต่อไปของ YU-GI-OH 5D'S
 Dialogue: 0,0:23:27.37,0:23:31.00,บทพูด,Unknown,0,0,0,,"บอมเมอร์ล้างแค้น กับดักอันน่าสลด แชเรียตไพล์"
 Dialogue: 0,0:23:31.54,0:23:33.94,บทพูด,Unknown,0,0,0,,ไรดิ้งดูเอล แอคเซลเลอเรชั่น
