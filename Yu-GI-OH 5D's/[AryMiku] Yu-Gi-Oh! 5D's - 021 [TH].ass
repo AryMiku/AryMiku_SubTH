@@ -20,20 +20,20 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: E:/Anime/YU-GI-OH 5D's/Yu-Gi-Oh 5D's - 021 [TH]/[Deformer-Lua] Yu-Gi-Oh! 5D's 021 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
-Video File: E:/Anime/YU-GI-OH 5D's/Yu-Gi-Oh 5D's - 021 [TH]/[Deformer-Lua] Yu-Gi-Oh! 5D's 021 (VOSTFR & Multi-Sub) [Softsub 1920x1080 x264 AVC VBR E-AC3].mkv
+Audio File: [YES] Yu-Gi-Oh! 5Ds - 021 (AMZN 1920x1080 VBR AVC E-AC3).mkv
+Video File: [YES] Yu-Gi-Oh! 5Ds - 021 (AMZN 1920x1080 VBR AVC E-AC3).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 331
-Active Line: 346
-Video Position: 33824
+Scroll Position: 336
+Active Line: 342
+Video Position: 33924
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: DCC,TH Sarabun New,120,&H00FFFFFF,&H000000FF,&H1F000000,&HC7000000,-1,0,0,0,100,100,0,0,1,6,0,2,160,160,50,1
 Style: Song Romaji,TF Manawika,90,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,9,10,50,30,1
-Style: Song Thai,TH Sarabun New,100,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,6,0,1,50,10,50,1
+Style: Song Thai,TH Sarabun New,100,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,6,0,9,10,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -47,8 +47,7 @@ Dialogue: 0,0:00:26.49,0:00:30.89,DCC,Unknown,0,0,0,,แม๊กส์ แอ�
 Dialogue: 0,0:00:37.83,0:00:38.77,DCC,Unknown,0,0,0,,ยูเซย์
 Dialogue: 0,0:00:43.44,0:00:44.70,DCC,Unknown,0,0,0,,ฉันต้องชนะ
 Dialogue: 0,0:00:45.04,0:00:48.14,DCC,Unknown,0,0,0,,และทำพันธะของฉันให้ลุล่วง
-Dialogue: 0,0:00:48.14,0:00:53.19,DCC,Unknown,0,0,0,,{\fs60\pos(1196,932)\3c&HF21500&}[ถอด Sub Thai]
-Dialogue: 0,0:00:48.14,0:00:53.19,DCC,Unknown,0,0,0,,{\3c&H2B2CFC&}Special Thank : StepUnderZ
+Dialogue: 0,0:00:48.14,0:00:53.19,DCC,Unknown,0,0,0,,{\fs60\3c&HF21500&\pos(1674,146)}[ถอด Sub Thai]\N{\3c&H2B2CFC&}Special Thank : StepUnderZ
 Dialogue: 0,0:01:09.00,0:01:11.60,Song Romaji,Unknown,0,0,0,,donna ni hanaretate
 Dialogue: 0,0:01:09.00,0:01:11.60,Song Thai,Unknown,0,0,0,,ไม่ว่าเราจะห่างกันเท่าไหร่
 Dialogue: 0,0:01:11.60,0:01:14.37,Song Romaji,Unknown,0,0,0,,togireru koto wa naisa
@@ -375,11 +374,12 @@ Dialogue: 0,0:22:47.73,0:22:51.16,Song Romaji,Unknown,0,0,0,,shinjiteru kizuna w
 Dialogue: 0,0:22:47.73,0:22:51.16,Song Thai,Unknown,0,0,0,,เก็บสายสัมพันธ์ที่เชื่อมั่นไว้ในใจ
 Dialogue: 0,0:22:51.16,0:22:57.43,Song Romaji,Unknown,0,0,0,,kaketeyuku ashita e
 Dialogue: 0,0:22:51.16,0:22:57.43,Song Thai,Unknown,0,0,0,,แล้ววิ่งไปสู่วันพรุ่งนี้
-Dialogue: 0,0:23:05.11,0:23:20.60,DCC,Unknown,0,0,0,,{\3c&HF21500&\pos(402,388)}ตอนต่อไป
+Dialogue: 0,0:23:05.11,0:23:20.60,DCC,Unknown,0,0,0,,{\3c&HF21500&\pos(432,142)}ตอนต่อไป
 Dialogue: 0,0:23:05.95,0:23:08.75,DCC,Unknown,0,0,0,,ดูเอลโปรไฟล์เลอร์ คิโนมิยะ โคโด
 Dialogue: 0,0:23:08.98,0:23:10.95,DCC,Unknown,0,0,0,,การ์ดทั้ง 40 ใบในเด็คของเขา
 Dialogue: 0,0:23:10.95,0:23:15.62,DCC,Unknown,0,0,0,,มีข้อมูลตลอด 16 ปีของ อิซาโยอิ อากิ อัดรวมไว้หมดแล้ว
 Dialogue: 0,0:23:15.79,0:23:20.16,DCC,Unknown,0,0,0,,หากเป็นเขาล่ะก็ อาจจะทำให้ได้สิ่งที่เราหวังมาก็ได้
+Dialogue: 0,0:23:20.61,0:23:34.95,DCC,Unknown,0,0,0,,{\3c&HF21500&\pos(958,178)}"อดีตที่ถูกเปิดเผย ดูเอลโปรไฟล์เลอร์ปะทะแม่มดกุหลาบดำ"
 Dialogue: 0,0:23:20.53,0:23:23.00,DCC,Unknown,0,0,0,,ตอนต่อไปของ YU-GI-OH 5D'S
 Dialogue: 0,0:23:23.40,0:23:27.96,DCC,Unknown,0,0,0,,"อดีตที่ถูกเปิดเผย ดูเอลโปรไฟล์เลอร์ปะทะแม่มดกุหลาบดำ"
 Dialogue: 0,0:23:28.07,0:23:30.50,DCC,Unknown,0,0,0,,ความจริงที่ว่า อิซาโยอิ อากิ เป็นซิกเนอร์หรือไม่
