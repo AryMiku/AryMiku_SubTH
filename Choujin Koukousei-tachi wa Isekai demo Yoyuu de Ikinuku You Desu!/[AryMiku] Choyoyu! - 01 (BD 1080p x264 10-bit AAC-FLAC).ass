@@ -11,14 +11,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Raws-Maji] Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! - 01 [BDRip 1920x1080 x264 AAC] (1).mkv
-Video File: [Raws-Maji] Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! - 01 [BDRip 1920x1080 x264 AAC] (1).mkv
+Audio File: [NH] Choyoyu! - 01 (BD 1080p x264 10-bit AAC-FLAC) [A40BA356].mkv
+Video File: [NH] Choyoyu! - 01 (BD 1080p x264 10-bit AAC-FLAC) [A40BA356].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 968
-Active Line: 984
-Video Position: 7240
+Scroll Position: 508
+Active Line: 515
+Video Position: 31913
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -554,6 +554,7 @@ Dialogue: 1,0:23:24.38,0:23:26.87,OP-TH,,0,0,0,,{\fad(123,123)\be2}พวกเ�
 Dialogue: 1,0:23:26.87,0:23:28.95,OP-TH,,0,0,0,,{\fad(123,123)\be2}พวกคุณจะไม่เสียใจแน่นอน
 Dialogue: 1,0:23:33.09,0:23:36.69,OP-TH,,0,0,0,,{\fad(123,123)\be2}เธอและพวกเรา, มาเริ่มต้นเปลี่ยนแปลงกัน, มาเริ่มกันเถอะ !
 Dialogue: 1,0:23:36.69,0:23:38.81,OP-TH,,0,0,0,,{\fad(123,123)\be2}พวกเราต้องทำได้ดีแน่นอน มันง่ายมากเหลือเกิน !
+Dialogue: 1,0:22:11.00,0:22:14.00,OP-TH,,0,0,0,,{\fad(123,123)\be2\c&H04610B&\pos(1626,1064)}Credit : Altinat (Rafasu)
 Dialogue: 0,0:23:38.81,0:23:40.81,OP-E,,0,0,0,,
 Dialogue: 0,0:22:15.68,0:22:17.68,Main,,0,0,0,,
 Dialogue: 0,0:01:22.52,0:01:23.64,sign_5097_18_Ohoshi_Ringo,sign 1,0,0,0,,{=0}{\fax0.35\fs105\pos(1352.805,10.8)}โอโฮชิ ริงโกะ
