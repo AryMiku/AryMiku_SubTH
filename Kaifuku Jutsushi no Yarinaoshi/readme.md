@@ -2,6 +2,10 @@
 
 ![image](https://cdn.myanimelist.net/images/anime/1301/110018l.webp)
 
+### ต้นฉบับของไฟล์
+
+https://nyaa.si/view/1392069
+
 ## สิ่งที่ต้องมีเพื่อไม่ให้แสดงผลผิดพลาด
 
 >### Fonts (สำหรับภาษาอังกฤษ)
