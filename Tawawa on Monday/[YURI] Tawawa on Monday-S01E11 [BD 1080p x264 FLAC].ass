@@ -18,9 +18,9 @@ Video File: [YURI] Tawawa on Monday-S01E11 [BD 1080p x264 FLAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1167
-Active Line: 1175
-Video Position: 5864
+Scroll Position: 35
+Active Line: 47
+Video Position: 1453
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,7 +86,7 @@ Dialogue: 0,0:00:27.99,0:00:30.04,Sign,,0,0,0,,{\an4\blur1.1\bord0\shad0.5\frz17
 Dialogue: 1,0:00:30.05,0:00:31.55,Sign,,0,0,0,,{\an5\blur1.2\bord0\fry1\frx1\frz16\fax0.05\fs200\fnJS Sadayu\c&H1C0F0C&\3c&H1C0F0C&\pos(1170,477)}ไม่ไปร่วมงาน
 Dialogue: 0,0:00:30.05,0:00:31.55,Sign,,0,0,0,,{\an5\blur2\bord15\alpha&H40&\fry1\frx1\frz16\fax0.05\fs200\fnJS Sadayu\c&HDBDBD9&\3c&HDBDBD9&\pos(1170,477)}ไม่ไปร่วมงาน
 Dialogue: 2,0:00:30.05,0:00:31.55,Sign,,0,0,0,,{\an7\pos(0,0)\blur2\bord0\c&H1D0E07&\alpha&H40&\p1}m 462 680 b 635 635 1571 325 1828 302 l 1871 300 1876 310 b 1811 331 1181 481 492 708 471 711 451 692 460 680
-Dialogue: 0,0:01:00.58,0:01:06.58,Sign,,0,0,0,,{\an5\blur0.5\bord2\fnLayiji MaHaNiYom V1.41 OT\fs80\c&HCC8101&\pos(1470,880)\3c&HFEFEFE&}ความเสียใจยามวัยรุ่น {\c&H939292&\3c&HFEFEFE&}ตอน {\c&HCC8101&\3c&HFEFEFE&}มัธยมปลาย\N{\c&HCC8101&\3c&HFEFEFE&}ของเธอที่พลาดอะไรไป {\c&H939292&\3c&HFEFEFE&}และ\Nรวมถึง {\c&HCC8101&\3c&HFEFEFE&}ความสนุกนาน {\c&H939292&\3c&HFEFEFE&}จาก\N{\c&HCC8101&\3c&HFEFEFE&}จินตนาการ
+Dialogue: 0,0:01:00.58,0:01:06.58,Sign,,0,0,0,,{\an5\blur0.5\bord2\fnLayiji MaHaNiYom V1.41 OT\fs80\c&HCC8101&\pos(1470,880)\3c&HFEFEFE&}ความเสียใจยามวัยรุ่น {\c&H939292&\3c&HFEFEFE&}ตอน {\c&HCC8101&\3c&HFEFEFE&}มัธยมปลาย\N{\c&HCC8101&\3c&HFEFEFE&}ของเธอที่พลาดอะไรไป {\c&H939292&\3c&HFEFEFE&}และ\Nรวมถึง {\c&HCC8101&\3c&HFEFEFE&}ความสนุกสนาน {\c&H939292&\3c&HFEFEFE&}จาก\N{\c&HCC8101&\3c&HFEFEFE&}จินตนาการ
 Dialogue: 1,0:01:44.04,0:01:48.05,GT Top,,0,0,0,,( งานพบปะสังสรรค์โรงเรียนมัธยมต้นรุ่น 47 )
 Dialogue: 0,0:03:43.32,0:03:43.41,Sign,,0,0,0,,{\fscx100\fscy100\an5\blur1.5\bord0\fs40\frz-16\fax-0.2\fnJS Sadayu\c&H322724&\b1\pos(1182,310)}โทคุโมริ
 Dialogue: 0,0:03:43.41,0:03:43.45,Sign,,0,0,0,,{\fscx100.01\fscy100.01\an5\blur1.5\bord0\fs40\frz-16\fax-0.2\fnJS Sadayu\c&H322724&\b1\pos(1182,310)}โทคุโมริ
