@@ -23,6 +23,8 @@
 | 10 | Yu-GI-OH DSTD | ✔️ |
 | 11 | Hanyou No Yashahime - Sengoku Otogizoushi | 🚩 |
 | 12 | Ijiranaide, Nagatoro-san | 🚩 |
+| 13 | Kaifuku Jutsushi no Yarinaoshi | ✔️ |
+| 14 | Tawawa On Moday | ✔️ |
 
 ---
 
