@@ -16,15 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: test
+Last Style Storage: Default
 Audio File: S01E01-Nothing Was Working Out [8E2EE6F8].mkv
 Video File: S01E01-Nothing Was Working Out [8E2EE6F8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2086
-Active Line: 2088
-Video Position: 1713
+Scroll Position: 2342
+Active Line: 2343
+Video Position: 13867
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,6 +72,7 @@ Style: Bokutachi OP,Gula FREE,73,&H004D00E3,&H000000FF,&H00F7F9F9,&H00000000,-1,
 Style: Bokutachi OP ENG,PSL Freestyle Pro (ฟรีสไตล์),130,&H004A00CA,&H000000FF,&H00C7BFCE,&H00AC93C3,0,0,0,0,100,100,0,0,1,4.5,3,2,10,10,25,1
 Style: Bokutachi ED,Kayak Sans,60,&H00FFFFFF,&H008C53CB,&H00008BD2,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,10,10,100,1
 Style: Bokutachi ED ENG,TH Sarabun New,90,&H00008BD2,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,10,10,150,1
+Style: Chapter Name,JS Sadayu,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -2418,7 +2419,7 @@ Dialogue: 0,0:09:27.03,0:09:28.55,main,Kyoya,0,0,0,,วิธีทำเป็�
 Dialogue: 0,0:09:28.55,0:09:32.20,main,Kyoya,0,0,0,,เพียงแค่ใส่หมายเลขเอาไว้ที่ไฟล์เท่านั้น
 Dialogue: 0,0:09:32.66,0:09:34.89,main,Kyoya,0,0,0,,เรียงลำดับโดยการใช้ตัวอักษร
 Dialogue: 0,0:09:34.89,0:09:37.84,main,Kyoya,0,0,0,,จากจุดนั้น\Nก็เปลี่ยนไปเป็นใส่หมายเลขแต่ละอันเข้าไป
-Dialogue: 0,0:09:38.35,0:09:42.14,main,Kyoya,0,0,0,,ของทั้งหมดที่ไม่ต้องการเอาไว้ในกระดาษ\Nทำเป็นไฟล์รูปภาพ
+Dialogue: 1,0:09:38.35,0:09:42.14,main,Kyoya,0,0,0,,ของทั้งหมดที่ไม่ต้องการเอาไว้ในกระดาษ\Nทำเป็นไฟล์รูปภาพ
 Dialogue: 0,0:09:42.61,0:09:46.32,main,Kyoya,0,0,0,,ส่วนไฟล์ที่ต้องการก็เก็บเอาไว้บนชั้นครับ
 Dialogue: 0,0:09:46.64,0:09:50.15,main,Kyoya,0,0,0,,ทั้งฟิกเกอร์ทั้งของเล่นก็ติดชื่อเอาไว้ด้วย
 Dialogue: 0,0:09:50.15,0:09:52.90,main,Kyoya,0,0,0,,โดยสามารถใช้ PC จัดการได้รวดเดียวเลยครับ
@@ -2989,6 +2990,7 @@ Dialogue: 0,0:03:20.80,0:03:20.88,sign_4817_94_Calling__Hashiba,Phone sign,0,0,0
 Dialogue: 0,0:03:20.88,0:03:21.30,sign_4817_94_Calling__Hashiba,Phone sign,0,0,0,,{\pos(735,390)\frz10.5}สายเข้า\N{\fs42} ฮาชิบะ มิโยโกะ
 Dialogue: 0,0:35:13.92,0:35:16.67,sign_50684_605_Two_Weeks_Later,Sign,0,0,0,,{\fad(1,500)\pos(960,332)}สองอาทิตย์ต่อมา
 Dialogue: 0,0:36:31.00,0:36:35.50,sign_52532_614_Screenplay_Writi,Sign,0,0,0,,ทฤษฏีการสร้างบทภาพยนตร์
+Dialogue: 0,0:05:48.35,0:05:51.85,Chapter Name,Sign,0,0,0,,{\pos(1418,782)\fad(500,300)}ทุกสิ่งทุกอย่างพังทลาย
 Dialogue: 0,0:39:03.69,0:39:07.19,sign_52532_614_Screenplay_Writi,Blackboard sign,0,0,0,,{\blur54\t(1,777,\blur0)\c&HA7AC9C&\t(1319,1600,\blur54)\t(1601,1903,\blur6)\t(1904,2236,\blur0)\t(2945,3500,\blur54)}ทฤษฏีการสร้างบทภาพยนตร์
 Dialogue: 0,0:39:07.19,0:39:10.24,sign_52532_614_Screenplay_Writi,Blackboard sign,0,0,0,,{\blur54\t(1,780,\blur0)\c&HB3B6AF&\t(1531,1739,\blur15)\t(1740,1948,\blur0)\t(1949,2282,\blur15\t(2283,2532,\blur0))}ความยุ่งเหยิง
 Dialogue: 0,0:37:32.72,0:37:44.32,sign_54012_628_Sreenplay_Writin,Blackboard sign,0,0,0,,{\pos(687,57)}ทฤษฏีการสร้างบทภาพยนตร์ 10 หัวข้อ
