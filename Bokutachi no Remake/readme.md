@@ -5,8 +5,6 @@
 
 ## ✨ Profile✨
 
-## Plugins
-
 | รายละเอียด | ชื่อเจ้าของผลงาน |
 | ------ | ------ |
 | Video File | [https://nyaa.si/view/1473015][PlDb] |
