@@ -22,9 +22,9 @@ Video File: S01E02-Ten Years Back in Time [930DDB6C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 2476
-Active Line: 2492
-Video Position: 17415
+Scroll Position: 2070
+Active Line: 2074
+Video Position: 4397
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,21 +114,21 @@ Dialogue: 0,0:21:56.15,0:21:58.37,Bokutachi ED,,0,0,35,,{\k16}Na{\k13}ni {\k13}g
 Dialogue: 0,0:21:58.37,0:22:01.93,Bokutachi ED,,0,0,0,,{\k27}Ki{\k37}zu{\k40}tsu{\k47}kou {\k26}to {\k19}o{\k30}wa{\k30}ra{\k41}se{\k26}na{\k33}i
 Dialogue: 0,0:22:02.05,0:22:05.58,Bokutachi ED,,0,0,0,,{\k15}Hi{\k16}to{\k23}ri {\k73}ja{\k26}na{\k13}i {\k33}sou {\k22}kan{\k15}ji{\k23}re{\k15}ru {\k79}yo
 Dialogue: 0,0:22:05.59,0:22:12.36,Bokutachi ED,,0,0,35,,{\k44}Tsu{\k14}gi {\k33}wa {\k37}ta{\k42}do{\k38}ri{\k28}tsu{\k28}ku {\k95}you {\k318}ni
-Dialogue: 0,0:20:55.43,0:20:59.89,Bokutachi ED ENG,,0,0,100,,{\blur3}ฉันจะลุยออกไปเพื่อสร้างโลกของฉันเอง
-Dialogue: 0,0:21:19.04,0:21:22.86,Bokutachi ED ENG,,0,0,100,,{\blur3}ฉันหยุดลงเมื่อวันก่อน ของเส้นทางวันพรุ่งนี้ ?
-Dialogue: 0,0:21:23.22,0:21:26.74,Bokutachi ED ENG,,0,0,0,,{\blur3}ฉันยื่นมือออกไปเพื่อตามเงาที่อยู่ในความฝัน
-Dialogue: 0,0:21:26.89,0:21:30.59,Bokutachi ED ENG,,0,0,100,,{\blur3}แต่ก็กลับกลายเป็นเงาของวันธรรมดา
-Dialogue: 0,0:21:31.06,0:21:35.28,Bokutachi ED ENG,,0,0,100,,{\blur3}อันไหนที่เป็นของคุณกันแน่
-Dialogue: 0,0:21:36.92,0:21:38.35,Bokutachi ED ENG,,0,0,0,,{\blur3}ใช่แล้ว โอ้ว...ใช่แล้ว
-Dialogue: 0,0:21:38.36,0:21:40.82,Bokutachi ED ENG,,0,0,0,,{\blur3}ไม่ว่าจะทำอีกกี่ครั้ง ก็ยังคงเป็นฉันเสมอ
-Dialogue: 0,0:21:40.82,0:21:42.77,Bokutachi ED ENG,,0,0,100,,{\blur3}ความรู้สึกของฉันเหมือนกำลังระเบิดออกมา
-Dialogue: 0,0:21:42.77,0:21:48.29,Bokutachi ED ENG,,0,0,100,,{\blur3}เปลี่ยนความเจ็บปวดให้เป็นความด้านชา
-Dialogue: 0,0:21:48.48,0:21:52.04,Bokutachi ED ENG,,0,0,100,,{\blur3}ฉันจะออกไปสร้างเรื่องราวของฉันเอง
-Dialogue: 0,0:21:52.21,0:21:55.79,Bokutachi ED ENG,,0,0,0,,{\blur3}เรื่องราวที่เต็มไปด้วยความเป็นไปได้
-Dialogue: 0,0:21:56.15,0:21:58.37,Bokutachi ED ENG,,0,0,100,,{\blur3}มีอะไรจะรอฉันอยู่ที่นั้นกัน ?
-Dialogue: 0,0:21:58.37,0:22:01.93,Bokutachi ED ENG,,0,0,0,,{\blur3}ฉันจะคอยดูมัน ถึงแม้ต้องเจ็บปวดก็ตาม
-Dialogue: 0,0:22:02.05,0:22:05.58,Bokutachi ED ENG,,0,0,0,,{\blur3}ฉันไม่ได้อยู่เพียงลำพัง ฉันสัมผัสมันได้
-Dialogue: 0,0:22:05.59,0:22:12.36,Bokutachi ED ENG,,0,0,100,,{\blur3}เพราะงั้นคราวหน้าต้องไปถึงแน่นอน
+Dialogue: 0,0:20:55.43,0:20:59.89,Bokutachi ED ENG,,0,0,100,,{\blur3}ฉันจะสร้างมันขึ้นด้วยแรงกระตุ้นแบบนี้
+Dialogue: 0,0:21:19.04,0:21:22.86,Bokutachi ED ENG,,0,0,100,,{\blur3}จู่ ๆ ก็หยุดเดินอยู่ตรงที่บันไดแล้วถามว่าพรุ่งนี้จะไปทางไหนต่อ ?
+Dialogue: 0,0:21:23.22,0:21:26.74,Bokutachi ED ENG,,0,0,0,,{\blur3}ยืดมือออกไปคว้าเงาของความฝัน
+Dialogue: 0,0:21:26.89,0:21:30.59,Bokutachi ED ENG,,0,0,100,,{\blur3}ฉันได้ตามหาจนเจอในแต่ละวันที่คุ้นเคย
+Dialogue: 0,0:21:31.06,0:21:35.28,Bokutachi ED ENG,,0,0,100,,{\blur3}แน่นอนว่าต้องมีเธออยู่แน่ ๆ
+Dialogue: 0,0:21:36.92,0:21:38.35,Bokutachi ED ENG,,0,0,0,,{\blur3}นั่นสินะ ดูเหมือนว่า
+Dialogue: 0,0:21:38.36,0:21:40.82,Bokutachi ED ENG,,0,0,0,,{\blur3}ไม่ว่าจะวนซ้ำไปซ้ำมากี่ครั้ง ฉันก็ยังคงเป็นฉันอยู่
+Dialogue: 0,0:21:40.82,0:21:42.77,Bokutachi ED ENG,,0,0,100,,{\blur3}ความรู้สึกที่เหมือนจะปะทุขึ้นมา
+Dialogue: 0,0:21:42.77,0:21:48.29,Bokutachi ED ENG,,0,0,100,,{\blur3}หรือแม้แต่ความเจ็บปวดก็ตามเปลี่ยนให้เป็นความได้เปรียบ
+Dialogue: 0,0:21:48.48,0:21:52.04,Bokutachi ED ENG,,0,0,100,,{\blur3}ฉันจะสร้างมันขึ้นด้วยแรงกระตุ้นแบบนี้
+Dialogue: 0,0:21:52.21,0:21:55.79,Bokutachi ED ENG,,0,0,0,,{\blur3}เรื่องราวที่มีชื่อว่าความเป็นไปได้
+Dialogue: 0,0:21:56.15,0:21:58.37,Bokutachi ED ENG,,0,0,100,,{\blur3}ไม่ว่าจะมีความยากลำบากอะไรรอเราอยู่
+Dialogue: 0,0:21:58.37,0:22:01.93,Bokutachi ED ENG,,0,0,0,,{\blur3}แม้ว่าฉันจะเจ็บปวดแต่ก็ขอเผชิญหน้ากับมัน
+Dialogue: 0,0:22:02.05,0:22:05.58,Bokutachi ED ENG,,0,0,0,,{\blur3}ฉันรู้สึกได้เลยว่าไม่ได้อยู่ตัวคนเดียว
+Dialogue: 0,0:22:05.59,0:22:12.36,Bokutachi ED ENG,,0,0,100,,{\blur3}ครั้งต่อไปฉันจะต้องไปให้ถึงให้ได้เลย
 Dialogue: 0,0:01:39.39,0:01:39.84,Bokutachi OP,,0,0,0,fx,{\an5\pos(565,72)\move(565,-83,565,72,0,400)\c&HFFFFFF&\3c&HFF8700&\bord2\blur4\fad(300,0)}K
 Dialogue: 0,0:01:39.39,0:01:39.84,Bokutachi OP,,0,0,0,fx,{\an5\pos(595,72)\move(595,-83,595,72,0,400)\c&HFFFFFF&\3c&HFF8700&\bord2\blur4\fad(300,0)}o
 Dialogue: 1,0:01:39.64,0:01:40.54,Bokutachi OP,,0,0,0,fx,{\fscx80\fscy80\c&HEEBB39&\3c&HEEBB39&\fad(10,100)\bord2\blur3\an5\move(577,47,577,-78)\t(0,3000,\frz6)\t(0,100,\bord0.5\blur4\3c&HFFFFFF&)\p1}m 16 30 b 28 22 30 18 30 14 b 32 8 22 -2 16 10 b 10 -2 0 8 2 14 b 2 18 4 22 16 30
@@ -2144,21 +2144,21 @@ Dialogue: 0,0:03:01.66,0:03:03.82,Bokutachi OP,,0,0,0,fx,{\fad(0,100)\an5\pos(13
 Dialogue: 0,0:03:01.66,0:03:03.82,Bokutachi OP,,0,0,0,fx,{\fad(0,100)\an5\pos(1379,47)\c&HEEBB39&\3c&HEEBB39&\fscx35\fscy35\bord0\blur2\shad0\move(1379,77,1402,91,0,800)\t(0,1000,\fscx70\fscy70\bord0\blur2\shad0)\t(0,800,\frz10)\p1}m 22 23 b 27 23 27 30 22 30 b 17 30 17 23 22 23
 Dialogue: 0,0:03:01.66,0:03:03.82,Bokutachi OP,,0,0,0,fx,{\fad(0,100)\an5\pos(1379,47)\c&HEEBB39&\3c&HEEBB39&\fscx35\fscy35\bord0\blur2\shad0\move(1379,77,1340,116,0,800)\t(0,1000,\fscx70\fscy70\bord0\blur2\shad0)\t(0,800,\frz17)\p1}m 22 23 b 27 23 27 30 22 30 b 17 30 17 23 22 23
 Dialogue: 0,0:03:01.66,0:03:03.82,Bokutachi OP,,0,0,0,fx,{\fad(0,100)\an5\pos(1379,47)\c&HEEBB39&\3c&HEEBB39&\fscx35\fscy35\bord0\blur2\shad0\move(1379,77,1397,124,0,800)\t(0,1000,\fscx70\fscy70\bord0\blur2\shad0)\t(0,800,\frz42)\p1}m 22 23 b 27 23 27 30 22 30 b 17 30 17 23 22 23
-Dialogue: 0,0:01:39.84,0:01:44.94,Bokutachi OP ENG,,0,0,0,,{\blur5}เรื่องราวในอนาคตนั้น  I’ll be there
-Dialogue: 0,0:01:44.94,0:01:50.64,Bokutachi OP ENG,,0,0,0,,{\blur5}เรื่องราวของอนาคตในวันนั้น With me
-Dialogue: 0,0:01:51.20,0:01:55.23,Bokutachi OP ENG,,0,0,0,,{\blur5}ช่วงเวลาที่ตะวันลับขอบฟ้า
-Dialogue: 0,0:01:55.32,0:02:00.74,Bokutachi OP ENG,,0,0,0,,{\blur5}ฉันวิ่งไล่ตามเงาที่กำลังหายลับไป
-Dialogue: 0,0:02:01.20,0:02:05.24,Bokutachi OP ENG,,0,0,0,,{\blur5}เรื่องอะไรแบบนั้น ไม่ว่าใครก็รู้ว่า
-Dialogue: 0,0:02:05.42,0:02:10.83,Bokutachi OP ENG,,0,0,0,,{\blur5}มันเป็นช่วงเวลาที่จะไม่หวนกลับคืนมา
-Dialogue: 0,0:02:11.35,0:02:15.70,Bokutachi OP ENG,,0,0,0,,{\blur5}สิ่งที่ปรากฎอยู่ตรงหน้า
-Dialogue: 0,0:02:16.10,0:02:20.00,Bokutachi OP ENG,,0,0,0,,{\blur5}มันคือ อนาคตที่ไม่ใช่เรื่องบังเอิญ
-Dialogue: 0,0:02:21.22,0:02:29.20,Bokutachi OP ENG,,0,0,0,,{\blur5}คนที่ฉันอยากจะเจอจริงๆนั้น อยู่อีกฟากของเส้นทาง ฉันจึงออกไล่ตาม
-Dialogue: 0,0:02:29.45,0:02:35.78,Bokutachi OP ENG,,0,0,0,,{\blur5}ตัวเธอในวันนั้นไป อนาคตที่กำลังมุ่งไปนั้น
-Dialogue: 0,0:02:35.78,0:02:42.60,Bokutachi OP ENG,,0,0,0,,{\blur5}อนาคตที่กำลังมุ่งไปนั้น เป็นเรื่องราวที่ไม่อาจแต่งออกมาได้เป็นบทเพลง
+Dialogue: 0,0:01:39.84,0:01:44.94,Bokutachi OP ENG,,0,0,0,,{\blur5}เรื่องต่อจากนี้ I'll be there
+Dialogue: 0,0:01:44.94,0:01:50.64,Bokutachi OP ENG,,0,0,0,,{\blur5}เรื่องต่อจากวันนั้น We'll be
+Dialogue: 0,0:01:51.20,0:01:55.23,Bokutachi OP ENG,,0,0,0,,{\blur5}ในตอนที่พระอาทิตย์กำลังลับขอบฟ้า
+Dialogue: 0,0:01:55.32,0:02:00.74,Bokutachi OP ENG,,0,0,0,,{\blur5}ฉันเลยไล่ตามเงาที่ค่อย ๆ หายไป
+Dialogue: 0,0:02:01.20,0:02:05.24,Bokutachi OP ENG,,0,0,0,,{\blur5}เรื่องนั้นน่ะไม่ว่าใครก็ตาม
+Dialogue: 0,0:02:05.42,0:02:10.83,Bokutachi OP ENG,,0,0,0,,{\blur5}ในตอนที่รับรู้ ก็ไม่สามารถกลับไปได้อีก
+Dialogue: 0,0:02:11.35,0:02:15.70,Bokutachi OP ENG,,0,0,0,,{\blur5}ภาพที่ฉายอยู่ตรงหน้า
+Dialogue: 0,0:02:16.10,0:02:20.00,Bokutachi OP ENG,,0,0,0,,{\blur5}เป็นอนาคตไม่ผิดแน่
+Dialogue: 0,0:02:21.22,0:02:29.20,Bokutachi OP ENG,,0,0,0,,{\blur5}คนที่อยากจะพบจริง ๆ คนนั้นน่ะอยู่อีกฟากหนึ่ง
+Dialogue: 0,0:02:29.45,0:02:35.78,Bokutachi OP ENG,,0,0,0,,{\blur5}ฉันเลยก้าวออกไปเพื่อไล่ตามเธอให้ทันในวันนั้น
+Dialogue: 0,0:02:35.78,0:02:42.60,Bokutachi OP ENG,,0,0,0,,{\blur5}เรื่องราวต่อจากนี้ที่ไม่สามารถแต่งเป็นบทเพลงได้
 Dialogue: 0,0:02:43.55,0:02:46.15,Bokutachi OP ENG,,0,0,0,,{\blur5}ฉันเองบอกไม่ได้หรอกนะ ว่ามันจะเกิดอะไรขึ้น
-Dialogue: 0,0:02:46.19,0:02:53.24,Bokutachi OP ENG,,0,0,0,,{\blur5}ตอนนี้มันยังไม่ถึงเวลาที่จะมาค้นหาคำตอบนั้น
-Dialogue: 0,0:02:53.29,0:02:58.18,Bokutachi OP ENG,,0,0,0,,{\blur5}แม้ตอนนี้ จะยังสื่อออกมาเป็นคำพูดไม่ได้ก็ตาม
-Dialogue: 0,0:02:58.18,0:03:03.92,Bokutachi OP ENG,,0,0,0,,{\blur5}แต่ฉันก็จะเฝ้าทุ่มเท อธิษฐานถึงมันจากใจ
+Dialogue: 0,0:02:46.19,0:02:53.24,Bokutachi OP ENG,,0,0,0,,{\blur5}ตอนนี้น่ะยังไม่ใช่ฤดูกาลที่จะตามหาคำตอบ
+Dialogue: 0,0:02:53.29,0:02:58.18,Bokutachi OP ENG,,0,0,0,,{\blur5}ตอนนี้ฉันไม่สามารถสื่อออกมาเป็นคำพูดได้ไปมากกว่านี้แล้ว
+Dialogue: 0,0:02:58.18,0:03:03.92,Bokutachi OP ENG,,0,0,0,,{\blur5}เพียงแค่ใจจดใจจ่อกับคำปรารถนานั้นอย่างเดียว
 Dialogue: 0,0:20:33.96,0:20:36.67,flashback,Eiko,0,0,0,,ถ้าเป็นนายที่ทำหน้าที่ฝ่ายผลิตละก็น่าจะอธิบายได้สินะ ?
 Dialogue: 0,0:20:37.04,0:20:39.42,flashback,Eiko,0,0,0,,อย่ามาดูถูกภาพยนต์จะดีกว่านะ
 Dialogue: 0,0:00:24.52,0:00:26.97,italics,Kyo,0,0,0,,พอเข้าฤดูใบไม้ผลินี้ผมก็ได้เข้าเรียนที่มหาวิทยาลัยศิลปะ
