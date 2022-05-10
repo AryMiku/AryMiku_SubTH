@@ -16,15 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: test
+Last Style Storage: Default
 Audio File: S01E02-Ten Years Back in Time [930DDB6C].mkv
 Video File: S01E02-Ten Years Back in Time [930DDB6C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 2070
-Active Line: 2074
-Video Position: 4397
+Video Zoom Percent: 0.500000
+Scroll Position: 2477
+Active Line: 2493
+Video Position: 34043
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -81,6 +81,7 @@ Style: Bokutachi OP,Gula FREE,73,&H004D00E3,&H000000FF,&H00F7F9F9,&H00000000,-1,
 Style: Bokutachi OP ENG,PSL Freestyle Pro (ฟรีสไตล์),130,&H004A00CA,&H000000FF,&H00C7BFCE,&H00AC93C3,0,0,0,0,100,100,0,0,1,4.5,3,2,10,10,25,1
 Style: Bokutachi ED,Kayak Sans,60,&H00FFFFFF,&H00E4FF8D,&H005A4938,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,10,10,35,1
 Style: Bokutachi ED ENG,TH Sarabun New,90,&H00FFFFFF,&H000000FF,&H00A19276,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,10,10,0,1
+Style: NextChapter,JS Sadayu,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,2,150,150,53,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -2566,7 +2567,7 @@ Dialogue: 0,0:23:02.90,0:23:14.78,sign_33157_376__If_there_s_no_c,Columsn; from 
 Dialogue: 0,0:00:17.03,0:00:22.83,sign_409_7_Sukiyamon__Soy_F,Package sign,0,0,0,,{\pos(322,352)}สุกิยามอน\N{\fs80\c&HFFFFFF&\3c&H46488B&\bord5}โซยุ
 Dialogue: 0,0:00:19.24,0:00:22.83,sign_409_7_Sukiyamon__Soy_F,Second Bag sign,0,0,0,,{\an9\c&H363933&\3c&H62809A&\pos(1620,356)}อุมะกาโทโย
 Dialogue: 0,0:03:05.58,0:03:09.46,sign_52532_614_Screenplay_Writi,Sign,0,0,0,,{\fad(897,1)}การประชุมภาคปฏิบัติ
-Dialogue: 0,0:03:05.58,0:03:09.46,sign_52532_614_Screenplay_Writi,Sign,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFFFFF&\fs100\pos(1430,784)}ได้กลับมาเมื่อ 10 ปีก่อน
+Dialogue: 0,0:03:05.58,0:03:08.92,sign_52532_614_Screenplay_Writi,Sign,0,0,0,,{\fad(897,300)\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFFFFF&\fs100\pos(1430,784)}ได้กลับมาเมื่อ 10 ปีก่อน
 Dialogue: 0,0:03:09.46,0:03:16.17,sign_54012_628_Sreenplay_Writin,Zoom out sign,0,0,0,,{\an8\pos(420,330)\frz0.58}ผู้กำกับ\Nฝ่ายเทคนิค
 Dialogue: 0,0:03:09.46,0:03:16.17,sign_54012_628_Sreenplay_Writin,Zoom out sign,0,0,0,,{\an8\frz0.58\pos(1005,285)}ฝ่ายเทคนิค\Nฝ่ายการผลิต
 Dialogue: 0,0:00:22.83,0:00:26.39,top,Roku,0,0,0,,ไม่เห็นจะเป็นไรเลยนี่นา\Nมันก็ราเม็งเหมือนกันแหละน่า
@@ -2577,3 +2578,5 @@ Dialogue: 0,0:00:32.25,0:00:33.45,top,Roku,0,0,0,,จริงสิ !
 Dialogue: 0,0:00:33.45,0:00:34.56,top,Shinoaki,0,0,0,,ฉันอยากได้ของฉันคืน !
 Dialogue: 0,0:00:34.56,0:00:35.57,top,Roku,0,0,0,,ให้ตายสิ !
 Dialogue: 0,0:12:06.32,0:12:08.18,top,Roku,0,0,0,,อ่า รู้แล้วละ
+Dialogue: 0,0:23:35.88,0:23:39.32,NextChapter,Roku,0,0,0,,{\pos(966,413)\fs80\fad(600,1)}ตอนที่ 3
+Dialogue: 0,0:23:35.88,0:23:39.32,NextChapter,Roku,0,0,0,,{\fs80\pos(964,675)\fad(600,1)}ผมคือใครกันนะ
