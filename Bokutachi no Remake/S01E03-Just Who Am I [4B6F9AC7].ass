@@ -16,15 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: remake
+Last Style Storage: Default
 Audio File: S01E03-Just Who Am I [4B6F9AC7].mkv
 Video File: S01E03-Just Who Am I [4B6F9AC7].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2068
-Active Line: 2074
-Video Position: 4313
+Scroll Position: 2440
+Active Line: 2454
+Video Position: 33955
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,6 +50,7 @@ Style: Bokutachi OP,Gula FREE,73,&H004D00E3,&H000000FF,&H00F7F9F9,&H00000000,-1,
 Style: Bokutachi OP ENG,PSL Freestyle Pro (ฟรีสไตล์),130,&H004A00CA,&H000000FF,&H00C7BFCE,&H00AC93C3,0,0,0,0,100,100,0,0,1,4.5,3,2,10,10,25,1
 Style: Bokutachi ED,Kayak Sans,60,&H00FFFFFF,&H008C53CB,&H00008BD2,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,10,10,100,1
 Style: Bokutachi ED ENG,TH Sarabun New,90,&H00008BD2,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,10,10,150,1
+Style: Remake - Chapter,JS Sadayu,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -2487,6 +2488,7 @@ Dialogue: 0,0:13:09.21,0:13:10.76,sign_18942_207_Karaoke,Kyoya,0,0,0,,{\pos(744,
 Dialogue: 0,0:18:05.35,0:18:08.60,sign_26023_300_Higashiyama_Brid,,0,0,0,,{\frz10.81\pos(480,465)}สะพานฮิกาชิยามะ
 Dialogue: 0,0:05:19.96,0:05:21.71,sign_26119_282_Fine_Art_Study_G,,0,0,0,,{\c&H1F2B1B&\3c&H90928D&}ยินดีต้อนรับเด็กใหม่\N{\fs72}ชมรมวิจัยศิลปะ\N\N{\c&H928F8B&\3c&H2C3272&\fs50}กำลังรับผู้สนใจชมรม
 Dialogue: 0,0:03:00.95,0:03:02.95,sign_4339_28_Completed_Compre,,0,0,0,,{\pos(255,600)}งานฉายภาพยนตร์\Nฉบับสมบูรณ์\Nการประชุมภาคปฏิบัติครั้งที่ 1
+Dialogue: 0,0:03:01.44,0:03:04.90,Remake - Chapter,,0,0,0,,{\pos(1396,888)\fad(800,200)}ได้กลับมาเมื่อ 10 ปีก่อน
 Dialogue: 0,0:03:48.08,0:03:51.46,sign_5469_44_A_Team_Kitayama_,Sign,0,0,0,,{\pos(966,480)\fad(189,438)}ผลงานทีมคิตะยามะ
 Dialogue: 0,0:06:54.68,0:06:58.48,sign_9943_104_As_it_ever_was,Sign,0,0,0,,{\pos(1515,180)\clip(1428,159,1533,186)\t(1,468,\clip(1428,159,1533,582))}ฉัน\Nได้\Nแต่
 Dialogue: 0,0:06:55.39,0:06:58.48,sign_9943_104_As_it_ever_was,Sign,0,0,0,,{\pos(1215,345)\clip(1122,345,1227,372)\t(1,358,\clip(1122,345,1227,765))}นั่ง\Nรอ\Nคอย\Nนาย\Nท่าน\Nอยู่
@@ -2505,3 +2507,5 @@ Dialogue: 0,0:13:48.19,0:13:51.09,top,song,0,0,0,,{\c&H00FCFF&}ตอนนี�
 Dialogue: 0,0:17:39.16,0:17:42.34,top,Kakihara,0,0,0,,ท่าโพสสำหรับความรัก ! ท่าโพสสำหรับจีบสาว !
 Dialogue: 0,0:17:42.34,0:17:46.54,top,Kakihara,0,0,0,,ลองดูที่นิ้วเท้าดูสิ ! เห็นมันไหม ?!
 Dialogue: 0,0:17:49.80,0:17:51.88,top,Sugimoto,0,0,0,,นี่แหละ สิ่งที่พวกเรารอคอย !
+Dialogue: 0,0:23:36.18,0:23:39.26,Remake - Chapter,Sugimoto,0,0,0,,{\fs80\pos(970,406)\fad(800,400)}ตอนที่ 4
+Dialogue: 0,0:23:36.18,0:23:39.26,Remake - Chapter,Sugimoto,0,0,0,,{\fs80\pos(964,678)\fad(800,400)}คิดเรื่องที่สามารถทำได้
